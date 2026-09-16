@@ -8,8 +8,8 @@
     <title>RATUSLOT: Slot Server Thailand Terbaru dengan Akses Cepat dan Praktis</title> 
     <meta name="description" content="RATUSLOT menghadirkan slot server Thailand terbaru dengan beragam pilihan permainan, akses cepat dan praktis, serta tampilan modern yang nyaman digunakan melalui berbagai perangkat." />
     <meta name="keywords" content="ratuslot, login ratuslot" />
-    <link rel="canonical" href="https://ratuslot15.com/" />
-    <link rel="alternate" href="https://ratuslot15.com/" hreflang="id" />
+    <link rel="canonical" href="https://ratuselot.shop/" />
+    <link rel="alternate" href="https://ratuselot.shop/" hreflang="id" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="id_ID" />
     <meta property="og:title" content="RATUSLOT: Slot Server Thailand Terbaru dengan Akses Cepat dan Praktis" />
