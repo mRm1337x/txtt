@@ -1,0 +1,451 @@
+
+
+
+
+
+
+<!doctype html>
+<html ⚡ lang="id">
+<head>
+    <link rel="canonical" href="https://ratuslot7.com/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,maximum-scale=1">
+    <meta http-equiv="content-language" content="id">
+    <title>RATUSLOT - Portal Anti Nawala Terbaik & Link Alternatif Terbaru 24 Jam</title>
+    <meta name="description" content="RATUSLOT portal anti nawala terbaik dengan link alternatif terbaru 24 jam. Akses mudah tanpa VPN, selalu aktif setiap saat. Daftar sekarang!">
+    <meta name="robots" content="index, follow">
+    <meta name="page-locale" content="id,en">
+    <meta property="og:title" content="RATUSLOT - Portal Anti Nawala Terbaik & Link Alternatif Terbaru 24 Jam">
+    <meta property="og:description" content="RATUSLOT portal anti nawala terbaik dengan link alternatif terbaru 24 jam. Akses mudah tanpa VPN, selalu aktif setiap saat. Daftar sekarang!">
+    <meta property="og:url" content="https://ratuslot7.com/">
+    <meta property="og:site_name" content="RATUSLOT">
+    <meta property="og:author" content="RATUSLOT">
+    <meta property="og:image" content="https://s13.gifyu.com/images/bu2pG.png">
+    <meta name="keywords" content="RATUSLOT">
+    <meta name="og:locale" content="ID_id">
+    <meta name="og:type" content="website">
+    <meta name="rating" content="general">
+    <meta name="author" content="RATUSLOT">
+    <meta name="distribution" content="global">
+    <meta name="publisher" content="RATUSLOT">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <link rel="icon" type="image/x-icon" href="https://s13.gifyu.com/images/buh9u.png">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rajdhani:wght@700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+<style amp-custom>
+:root{
+  --bg:#050505;
+  --bg-soft:#111111;
+  --panel:#1a1a1a;
+  --blue:#d49537;
+  --blue-soft:#bd8213;
+  --blue-deep:#d1a836;
+  --text:#f5f5f5;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  background:radial-gradient(circle at top, #1a1a1a 0%, #050505 65%, #000000 100%);
+  font-family:'Press Start 2P', cursive;
+  color:var(--blue);
+}
+
+/* CRT EFFECT */
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  background:repeating-linear-gradient(
+    to bottom,
+    rgba(255,255,255,.04),
+    rgba(255,255,255,.04) 1px,
+    transparent 3px,
+    transparent 6px
+  );
+  pointer-events:none;
+}
+
+/* MAIN FRAME */
+.arcade-frame{
+  max-width:460px;
+  margin:18px auto;
+  background:linear-gradient(180deg, #000000 0%, #0d0d0d 55%, #1a1a1a 100%);
+  border:3px solid var(--blue);
+  box-shadow:
+    0 0 24px rgba(212,175,55,.35),
+    0 10px 30px rgba(0,0,0,.85),
+    inset 0 0 16px rgba(255,215,0,.05);
+  border-radius:12px;
+  overflow:hidden;
+}
+
+/* HUD */
+.hud{
+  display:flex;
+  justify-content:space-between;
+  padding:10px 12px;
+  font-size:12px;
+  border-bottom:2px solid var(--blue);
+  color:var(--blue-soft);
+  background:linear-gradient(180deg, #111111, #000000);
+}
+
+.footer{
+  border-color:var(--blue);
+}
+
+.hud .online{
+  color:var(--blue);
+  text-shadow:0 0 10px rgba(255,215,0,.4);
+}
+
+/* SCREEN */
+.screen{
+  padding:5px 20px 28px 20px;
+  text-align:center;
+}
+
+/* LOGO IMAGE */
+.logo-img amp-img{
+  margin:0 auto 14px;
+  max-width:160px;
+  filter:drop-shadow(0 0 12px rgba(226, 141, 30, 0.35));
+}
+
+/* TEXT LOGO */
+.logo{
+  font-size:30px;
+  letter-spacing:4px;
+  color:var(--blue);
+  text-shadow:
+    0 0 10px rgba(230, 178, 7, 0.5),
+    0 0 18px rgba(218, 146, 12, 0.25);
+}
+
+.tagline{
+  margin-top:6px;
+  font-size:13px;
+  color:var(--blue-soft);
+  opacity:.8;
+}
+
+/* SYSTEM TEXT */
+.system{
+  margin:18px 0 26px;
+  color:var(--blue);
+  animation:blink 2s infinite;
+}
+
+@keyframes blink{
+  50%{opacity:0.15}
+}
+
+/* MENU */
+.menu a{
+  display:block;
+  margin:14px 0;
+  padding:16px;
+  border:2px solid var(--blue);
+  color:var(--blue-soft);
+  text-decoration:none;
+  text-transform:uppercase;
+  box-shadow:
+    0 0 14px rgba(212, 149, 55, 0.22),
+    0 6px 16px rgba(0,0,0,.65);
+  background:linear-gradient(135deg, #000000 0%, #111111 55%, #1a1a1a 100%);
+  position:relative;
+  overflow:hidden;
+  text-align:center;
+  text-shadow:0 1px 2px rgba(0,0,0,.8);
+  transition:.25s ease;
+}
+
+/* efek tekan */
+.menu a:active{
+  transform:scale(.95);
+}
+
+/* overlay glow saat hover */
+.menu a::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(135deg, transparent, rgba(255, 187, 0, 0.16), transparent);
+  opacity:0;
+  transition:.25s ease-in-out;
+}
+
+.menu a:hover::before{
+  opacity:1;
+}
+
+.menu a:hover{
+  color:#ffffff;
+  box-shadow:
+    0 0 18px rgba(226, 141, 30, 0.35),
+    0 8px 18px rgba(0,0,0,.8);
+}
+
+/* ====== GARIS ANIMASI ====== */
+.menu a span{
+  position:absolute;
+  display:block;
+}
+
+/* atas */
+.menu a span:nth-child(1){
+  top:0; left:0;
+  width:100%; height:2px;
+  background:linear-gradient(to left, transparent, var(--blue-soft));
+  animation:animateTop 2s linear infinite;
+}
+
+/* kanan */
+.menu a span:nth-child(2){
+  top:0; right:0;
+  width:2px; height:100%;
+  background:linear-gradient(to top, transparent, var(--blue-soft));
+  animation:animateRight 2s linear infinite;
+  animation-delay:-1s;
+}
+
+/* bawah */
+.menu a span:nth-child(3){
+  bottom:0; left:0;
+  width:100%; height:2px;
+  background:linear-gradient(to right, transparent, var(--blue-soft));
+  animation:animateBottom 2s linear infinite;
+}
+
+/* kiri */
+.menu a span:nth-child(4){
+  top:0; left:0;
+  width:2px; height:100%;
+  background:linear-gradient(to bottom, transparent, var(--blue-soft));
+  animation:animateLeft 2s linear infinite;
+  animation-delay:-1s;
+}
+
+@keyframes animateTop {
+  0% { transform:translateX(100%); }
+  100% { transform:translateX(-100%); }
+}
+
+@keyframes animateRight {
+  0% { transform:translateY(100%); }
+  100% { transform:translateY(-100%); }
+}
+
+@keyframes animateBottom {
+  0% { transform:translateX(-100%); }
+  100% { transform:translateX(100%); }
+}
+
+@keyframes animateLeft {
+  0% { transform:translateY(-100%); }
+  100% { transform:translateY(100%); }
+}
+
+/* HERO IMAGE */
+.hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-media {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero amp-img{
+  margin:22px auto;
+  border:2px solid var(--blue);
+  box-shadow:
+    0 0 16px rgba(212,175,55,.28),
+    0 8px 18px rgba(0,0,0,.7);
+  border-radius:8px;
+}
+
+/* PANEL */
+.panel{
+  margin-top:26px;
+  padding-top:16px;
+  border-top:2px dashed var(--blue);
+  font-size:13px;
+  line-height:1.7;
+}
+
+.seo-content h1{
+  font-size:18px;
+  margin:0 0 10px;
+  color:var(--blue);
+  text-shadow:0 0 8px rgba(226, 141, 30, 0.35);
+  text-transform:uppercase;
+}
+
+.seo-content p{
+  margin:0;
+  font-size:13px;
+  line-height:1.6;
+  color:var(--text);
+  opacity:.88;
+}
+
+/* FOOTER */
+.footer{
+  text-align:center;
+  padding:10px 12px;
+  border-top:2px solid var(--blue);
+  font-size:12px;
+  opacity:.78;
+  color:var(--blue-soft);
+  background:linear-gradient(180deg, #111111, #000000);
+}
+
+/* BOOT OVERLAY */
+.boot-overlay {
+  position:absolute;
+  inset:0;
+  top:22px;
+  width:410px;
+  height:410px;
+  background-color:rgba(18,18,18,0.92);
+  box-shadow:0 0 14px rgba(255,215,0,.2);
+  z-index:5;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  animation:bootFadeOut 0.5s ease-out 2.2s forwards;
+  pointer-events:none;
+  backdrop-filter:blur(2px);
+}
+
+.boot-logo {
+  font-family:'Press Start 2P', cursive;
+  font-size:32px;
+  color:var(--blue);
+  opacity:0;
+  transform:translateY(-200px);
+  animation:
+    logoDrop 1.5s cubic-bezier(0.25,1,0.5,1) forwards,
+    glitchEffect 0.3s cubic-bezier(.25,.46,.45,.94) 1.0s infinite;
+  text-shadow:
+    2px 0 rgba(255,255,255,.15),
+    -2px 0 rgba(212,175,55,.35);
+}
+
+.boot-logo span {
+  font-size:12px;
+  vertical-align:top;
+  margin-left:2px;
+}
+
+@keyframes logoDrop {
+  0% { opacity:1; transform:translateY(-200px) }
+  60% { transform:translateY(0) }
+  100% { opacity:1; transform:translateY(0) }
+}
+
+@keyframes glitchEffect {
+  0%,75%,100% {
+    text-shadow:2px 0 rgba(255,255,255,.18), -2px 0 rgba(212,175,55,.4);
+    transform:translate(0);
+  }
+  25% {
+    text-shadow:-2px 0 rgba(255,255,255,.18), 2px 0 rgba(212,175,55,.4);
+    transform:translate(2px,2px);
+  }
+  50% {
+    text-shadow:2px 0 rgba(255,255,255,.18), -2px 0 rgba(212,175,55,.4);
+    transform:translate(-2px,-2px);
+  }
+}
+
+@keyframes bootFadeOut {
+  to { opacity:0; visibility:hidden }
+}
+</style>
+</head>
+<body>
+
+<section class="arcade-frame">
+  <!-- TOP HUD -->
+  <div class="hud">
+    <div>HP ❤❤❤❤❤</div>
+    <div class="online">SLOT VVIP</div>
+    <div>LV 100</div>
+  </div>
+
+  <!-- SCREEN -->
+  <div class="screen">
+
+    <!-- LOGO IMAGE -->
+    <div class="logo-img">
+      <amp-img
+        src="https://s13.gifyu.com/images/buELx.png"
+        width="300"
+        height="100"
+        layout="responsive"
+        alt="LOGO RATUSLOT">
+      </amp-img>
+    </div>
+
+  <!-- LOGO TEXT
+  <div class="logo">EXTREME ARCADE</div>
+  <div class="tagline">CYBER RETRO CORE SYSTEM</div>-->
+
+  <div class="system">▶ RATUSLOT ◀</div>
+
+  <!-- HERO IMAGE -->
+  <div class="hero">
+    <div class="hero-media"> <!-- PEMBUNGKUS GAMBAR -->
+      <amp-img
+        src="https://s13.gifyu.com/images/bu2pG.png"
+        width="420"
+        height="420"
+        layout="responsive"
+        alt="BANNER RATUSLOT">
+      </amp-img>
+    </div>
+  </div>
+
+    <!-- MENU -->
+     <nav class="menu">
+  <a href="https://mylink.ly/ratumyc/">
+    <span></span>
+      <span></span>
+      <span></span>
+    <span></span>
+    LOGIN
+  </a>
+  <a href="https://mylink.ly/ratumyc/">
+    <span></span>
+      <span></span>
+      <span></span>
+    <span></span>
+    DAFTAR
+  </a>
+  <a href="https://mylink.ly/ratumyc/">
+    <span></span>
+      <span></span>
+      <span></span>
+    <span></span>
+    LINK ALTERNATIF
+  </a>
+</nav>
+
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div>RATUSLOT x SEO MRM</div>
+  </div>
+</section>
+</body>
+</html>
