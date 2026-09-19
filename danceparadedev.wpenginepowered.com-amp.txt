@@ -1,0 +1,491 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!doctype html>
+      <html amp lang="id">
+      <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+        <title>RATUSLOT – Link Gacor Terbaru 2026 dengan Akses Situs yang Mudah dan Cepat</title>
+        <meta name="description" content="RATUSLOT hadir dengan link gacor terbaru 2026 yang mudah dan cepat diakses. Nikmati tampilan modern, navigasi praktis, serta berbagai pilihan permainan yang nyaman digunakan melalui perangkat mobile maupun desktop." />
+        <meta name="robots" content="index,follow" />
+        <!-- Ganti ke URL non-AMP -->
+        <link rel="canonical" href="https://danceparadedev.wpenginepowered.com/" />
+        <link rel="alternate" href="https://danceparadedev.wpenginepowered.com/" hreflang="id" />
+        <link rel="icon" href="https://s13.gifyu.com/images/bujvD.png" />
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
+        <style amp-boilerplate>
+          body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+          -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+          -ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+          animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+          @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}  
+          @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+          @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+          @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+          @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+        </style>
+        <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+        <style amp-custom>
+        :root { color-scheme: dark; }
+        * { box-sizing: border-box; }
+
+        body{
+          margin:0;
+          font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+          background:
+            radial-gradient(900px 450px at 10% 10%, rgb(128, 0, 0), transparent 60%),
+            radial-gradient(900px 450px at 90% 40%, rgb(128, 0, 0), transparent 60%),
+            #07080c;
+          color:#f4f6ff;
+          min-height:100vh;
+          display:flex;
+          justify-content:center;
+          padding:16px 12px 26px;
+        }
+
+        .wrap{ width:100%; max-width:420px; }
+
+        .card{
+          background: rgba(143, 0, 0, 0.12);
+          border: 1px solid rgba(173, 216, 230, 0.25);
+          border-radius: 18px;
+          box-shadow: 0 18px 40px rgba(173, 216, 230, 0.25);
+          overflow:hidden;
+        }
+
+        /* Header */
+        .head{
+          padding:14px 14px 12px;
+          display:flex;
+          align-items:center;
+          justify-content:space-between;
+          gap:10px;
+          background: rgba(0,0,0,.25);
+          border-bottom: 1px solid rgba(255,255,255,.08);
+        }
+
+        .brand{
+          display:flex;
+          align-items:center;
+          gap:10px;
+          min-width:0;
+        }
+
+        .logo{
+          width:40px; height:40px;
+          border-radius: 12px;
+          overflow:hidden;
+          border: 1px solid rgba(255,255,255,.12);
+          background: rgba(255,255,255,.04);
+          flex:0 0 auto;
+        }
+
+        .meta{ min-width:0; }
+
+        .meta .name{
+          font-weight:900;
+          font-size:13.5px;
+          white-space:nowrap;
+          overflow:hidden;
+          text-overflow:ellipsis;
+          max-width: 240px;
+        }
+
+        .meta .tag{
+          margin-top:3px;
+          font-size:11px;
+          color: rgba(255,255,255,.70);
+          white-space:nowrap;
+          overflow:hidden;
+          text-overflow:ellipsis;
+          max-width: 260px;
+        }
+
+        .pill{
+          padding:8px 10px;
+          border-radius:999px;
+          font-size:11px;
+          font-weight:800;
+          color:#ffffff;
+          background: linear-gradient(90deg, #970000, rgb(126, 0, 0));
+          border:none;
+          box-shadow: 0 12px 26px rgb(160, 0, 0);
+        }
+
+        /* Hero */
+        .hero{ position:relative; }
+
+        .hero::after{
+          content:"";
+          position:absolute;
+          inset:0;
+          background: linear-gradient(180deg, rgba(0,0,0,0) 40%, rgba(0,0,0,.55) 100%);
+          pointer-events:none;
+        }
+
+        /* Body */
+        .body{ padding:14px; }
+
+        h1{
+          margin:0;
+          font-size:18px;
+          line-height:1.25;
+          letter-spacing:.2px;
+        }
+
+        p{
+          margin:10px 0 0;
+          font-size:13px;
+          line-height:1.7;
+          color: rgba(0, 0, 0, 0.82);
+        }
+
+        /* CTA */
+        .cta{
+          display:grid;
+          grid-template-columns: 1fr 1fr;
+          gap:10px;
+          margin-top:14px;
+        }
+
+        a.btn{
+          height:42px;
+          border-radius: 14px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          text-decoration:none;
+          font-weight:900;
+          letter-spacing:.6px;
+          font-size:12px;
+          border: 1px solid #970000;
+          background: #970000;
+          color:#fff;
+          position:relative;
+          overflow:hidden;
+        }
+
+        a.btn.primary{
+          background: linear-gradient(90deg, #970000, rgb(155, 0, 0));
+          border-color: #000000;
+          box-shadow: 0 14px 30px rgb(139, 0, 0);
+        }
+
+        a.btn::before{
+          content:"";
+          position:absolute; top:0; left:-70px;
+          width:50px; height:100%;
+          background: linear-gradient(120deg, rgb(243, 240, 224), rgba(243, 240, 224));
+          transform: skewX(-25deg);
+          animation: shine 2s linear infinite;
+          pointer-events:none;
+        }
+
+        @keyframes shine{
+          0%{left:-70px}
+          100%{left:130%}
+        }
+
+        /* Trust lines */
+        .trust{
+          margin-top:12px;
+          display:grid;
+          gap:8px;
+          padding:12px;
+          border-radius: 14px;
+          background: rgba(135,206,250,.08);
+          border: 1px solid rgba(135,206,250,.2);
+        }
+
+        .row{
+          display:flex;
+          justify-content:space-between;
+          gap:10px;
+          font-size:12px;
+          color: rgba(255,255,255,.78);
+          border-bottom: 1px dashed rgba(255,255,255,.10);
+          padding-bottom:8px;
+        }
+
+        .row:last-child{ border-bottom:none; padding-bottom:0; }
+
+        .row b{ color:#fff; }
+
+        .foot{
+          padding:12px 14px 14px;
+          text-align:center;
+          font-size:11.5px;
+          color: rgba(255,255,255,.60);
+          border-top: 1px solid rgba(255,255,255,.08);
+          background: rgba(0,0,0,.20);
+        }
+            .partner-gold-btn{
+          position:fixed;
+          width:75px;
+          height:75px;
+          right:25px;
+          bottom:125px;
+          border-radius:50%;
+          overflow:visible;
+          background:radial-gradient(
+              circle at 30% 25%,
+              rgba(44,74,221,.88) 0%,
+              rgba(215,72,239,.75),
+              rgba(245,182,53,.78),
+              rgba(0,18,12,.92) 100%
+          );
+          border:none;
+          outline:none;
+          box-sizing:border-box;
+          z-index:999999;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          text-decoration:none;
+          box-shadow:
+              inset 0 2px 5px rgba(112,60,227,.97),
+              inset 0 -5px 10px rgba(0,0,0,.45),
+              0 0 10px rgba(0,255,153,.55),
+              0 0 24px rgba(0,255,153,.35);
+      }
+
+      .partner-gold-btn:before{
+          content:"";
+          position:absolute;
+          inset:-3px;
+          border-radius:50%;
+          padding:3px;
+          background:conic-gradient(
+              from 0deg,
+              #b90000,
+              #000000,
+              #990000,
+              #ee249c,
+              #b90000,
+              #ff00c8,
+              #b90000
+          );
+          animation:borderSpin .45s linear infinite;
+          pointer-events:none;
+          z-index:2;
+      }
+
+      .partner-gold-btn:after{
+          content:"";
+          position:absolute;
+          inset:-7px;
+          border-radius:50%;
+          background:radial-gradient(
+              circle,
+              rgba(0,255,153,.20) 0%,
+              rgba(0,255,153,.08) 45%,
+              rgba(0,255,153,0) 75%
+          );
+          filter:blur(7px);
+          animation:glowOnly 1.2s ease-in-out infinite;
+          pointer-events:none;
+          z-index:1;
+      }
+
+      .partner-gold-btn img{
+          width:72%;
+          height:72%;
+          object-fit:contain;
+          position:relative;
+          z-index:3;
+          filter:
+              drop-shadow(0 0 6px rgba(255,255,255,.85))
+              drop-shadow(0 0 8px rgba(0,255,153,.65));
+      }
+
+      /* Floating Text Container */
+      .float-text{
+          position:absolute;
+          top:-40px;
+          left:50%;
+          transform:translateX(-50%);
+          width:180px;
+          height:32px;
+          overflow:hidden;
+          z-index:4;
+      }
+
+      /* Individual Text */
+      .float-text span{
+          position:absolute;
+          left:0;
+          right:0;
+          opacity:0;
+          text-align:center;
+          background:linear-gradient(
+              135deg,
+              #000000,
+              #000000,
+              #fc2020
+          );
+          color:#ffffff;
+          text-shadow:0 1px 1px rgba(255,255,255,.75);
+          font-size:15px;
+          font-weight:900;
+          letter-spacing:.4px;
+          padding:7px 12px;
+          border-radius:999px;
+          border:1px solid rgba(255,255,255,.75);
+          box-shadow:
+              0 0 10px rgba(255,230,0,.9),
+              0 0 18px rgba(0,255,153,.4);
+          white-space:nowrap;
+          line-height:1;
+          animation:textRotate 17.6s infinite;
+      }
+
+      /* 11 texts × 1.6s */
+      .float-text span:nth-child(1){animation-delay:0s}
+      .float-text span:nth-child(2){animation-delay:1.6s}
+      .float-text span:nth-child(3){animation-delay:3.2s}
+      .float-text span:nth-child(4){animation-delay:4.8s}
+      .float-text span:nth-child(5){animation-delay:6.4s}
+      .float-text span:nth-child(6){animation-delay:8s}
+      .float-text span:nth-child(7){animation-delay:9.6s}
+      .float-text span:nth-child(8){animation-delay:11.2s}
+      .float-text span:nth-child(9){animation-delay:12.8s}
+      .float-text span:nth-child(10){animation-delay:14.4s}
+      .float-text span:nth-child(11){animation-delay:16s}
+
+      @keyframes textRotate{
+          0%{
+              opacity:0;
+              transform:translateY(8px);
+          }
+          3%{
+              opacity:1;
+              transform:translateY(0);
+          }
+          8%{
+              opacity:1;
+              transform:translateY(0);
+          }
+          9%{
+              opacity:0;
+              transform:translateY(-8px);
+          }
+          100%{
+              opacity:0;
+          }
+      }
+
+      @keyframes borderSpin{
+          to{
+              transform:rotate(360deg);
+          }
+      }
+
+      @keyframes glowOnly{
+          0%,100%{
+              opacity:.6;
+          }
+          50%{
+              opacity:1;
+          }
+      }
+
+      @media (min-width:769px){
+          .partner-gold-btn{
+              display:none;
+          }
+      }
+      </style>
+      </head>
+
+      <body>
+        <main class="wrap">
+          <section class="card" aria-label="Landing AMP">
+            <!-- Header -->
+            <header class="head">
+              <div class="brand">
+                <div class="logo">
+                  <amp-img
+                    src="https://s13.gifyu.com/images/bujvD.png"
+                    width="40" height="40"
+                    layout="responsive"
+                    alt="RATUSLOT">
+                  </amp-img>
+                </div>
+                <div class="meta">
+                  <div class="name">RATUSLOT</div>
+                  <div class="tag">Sini Main Slot Gacor Bareng Kami Di RATUSLOT</div>
+                </div>
+              </div>
+              <button class="pill" type="button">Official</button>
+            </header>
+
+            <!-- Hero -->
+            <div class="hero" aria-label="Gambar utama">
+              <amp-img
+                src="https://s13.gifyu.com/images/buVAS.png"
+                width="800" height="800"
+                layout="responsive"
+                alt="RATUSLOT">
+              </amp-img>
+            </div>
+      <div class="cta" aria-label="Tombol">
+                <a class="btn primary" href="https://mylink.ly/ratumyc" target="_blank" rel="noopener noreferrer">LOGIN</a>
+                <a class="btn" href="https://mylink.ly/ratumyc" target="_blank" rel="noopener noreferrer">DAFTAR</a>
+              </div>
+            <!-- Content -->
+            <div class="body">
+              <h1><center>RATUSLOT – Link Gacor Terbaru 2026 dengan Akses Situs yang Mudah dan Cepat</center></h1>
+            
+
+              <div class="trust" aria-label="Info">
+                <div class="row"><span>Platform</span><b>RATUSLOT</b></div>
+                <div class="row"><span>Minimal Depo</span><b>Rp 5.000</b></div>
+                <div class="row"><span>Minimal WD</span><b>Rp 50.000</b></div>
+                <div class="row"><span>Total Member</span><b>1.698.123</b></div>
+              </div>
+            </div>
+
+            <footer class="foot">
+              © <span>2026</span>  Copyright x SEO MRM
+            </footer>
+          </section>  
+        </main>
+                <!-- Button JANGAN COPY ADA BUGNYA-->
+          <a href="https://mylink.ly/ratumyc"
+        class="partner-gold-btn"
+        target="_blank"
+        rel="noopener noreferrer">
+
+          <span class="float-text">
+              <span>Pola Slot Gacor</span>
+              <span>Game Gacor</span>
+              <span>Rtp Slot</span>
+              <span>Slot Gacor</span>
+              <span>Slot Maxwin</span>
+              <span>Slot 777</span>
+              <span>Ratu Slot</span>
+              <span>RATUSLOT</span>
+              <span>Slot RATUSLOT</span>
+              <span>Hoki Slot</span>
+              <span>RATUSLOT</span>
+          </span>
+
+          <img src="https://s13.gifyu.com/images/bujvD.png"
+              alt="Partner">
+      </a>
+      </body>
+      </html>
