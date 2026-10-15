@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html amp lang="en-ID">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RATUSLOT: Portal Link Alternatif Resmi Online 24 Jam Apk Untuk Login Cepat</title>
+    <meta name="description" content="RATUSLOT menghadirkan portal link alternatif resmi & Apk Ratuslot dengan akses login yang cepat, praktis, dan nyaman digunakan melalui perangkat mobile maupun desktop Online 24 jam." />
+    <meta name="robots" content="index,follow" />
+    <link href="https://s15.gifyu.com/images/bQoAn.png" rel="shortcut icon" type="image/x-icon" />
+    <link rel="canonical" href="https://ratuslot7.com/" />
+    
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+    <style amp-custom>
+        :root {
+            --maroon: #800000;
+            --maroon-dark: #4a0404;
+            --gold: #ffd700;
+            --gold-gradient: linear-gradient(180deg, #fff4bb, #ffd700, #b08d26);
+            --white: #ffffff;
+            --glass: rgba(0, 0, 0, 0.6);
+            --border: rgba(255, 255, 255, 0.1);
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: #000;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            overflow: hidden; /* Mencegah scroll karena bintang */
+        }
+
+        /* --- CSS SHOOTING STARS (NO JS) --- */
+        .night {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            transform: rotateZ(45deg);
+            z-index: -1;
+        }
+
+        .shooting-star {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            height: 2px;
+            background: linear-gradient(-45deg, #fff, rgba(0, 0, 255, 0));
+            border-radius: 999px;
+            filter: drop-shadow(0 0 6px #fff);
+            animation: tail 3s ease-in-out infinite, shooting 3s ease-in-out infinite;
+        }
+
+        .shooting-star::before, .shooting-star::after {
+            content: '';
+            position: absolute;
+            top: calc(50% - 1px);
+            right: 0;
+            height: 2px;
+            background: linear-gradient(-45deg, rgba(0, 0, 255, 0), #fff, rgba(0, 0, 255, 0));
+            transform: translateX(50%) rotateZ(45deg);
+            border-radius: 100%;
+            animation: shining 3s ease-in-out infinite;
+        }
+
+        .shooting-star::after { transform: translateX(50%) rotateZ(-45deg); }
+
+        /* Varian Bintang - Atur posisi & delay */
+        .shooting-star:nth-child(1) { top: 0; left: 0; animation-delay: 0s; }
+        .shooting-star:nth-child(2) { top: 0; left: 200px; animation-delay: 1.5s; }
+        .shooting-star:nth-child(3) { top: 100px; left: 400px; animation-delay: 0.8s; }
+        .shooting-star:nth-child(4) { top: -50px; left: 600px; animation-delay: 2s; }
+        .shooting-star:nth-child(5) { top: 200px; left: 100px; animation-delay: 1.2s; }
+
+        @keyframes tail {
+            0% { width: 0; }
+            30% { width: 100px; }
+            100% { width: 0; }
+        }
+
+        @keyframes shining {
+            0% { width: 0; }
+            50% { width: 30px; }
+            100% { width: 0; }
+        }
+
+        @keyframes shooting {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(300px); }
+        }
+        /* --- END SHOOTING STARS --- */
+
+        .container {
+            max-width: 420px;
+            width: 100%;
+            padding: 25px;
+            text-align: center;
+            background: var(--glass);
+            backdrop-filter: blur(8px);
+            border: 1px solid var(--border);
+            border-radius: 30px;
+            margin: 15px;
+            box-shadow: 0 0 30px rgba(128, 0, 0, 0.4);
+            position: relative;
+            z-index: 10;
+        }
+
+        header { margin-bottom: 20px; }
+
+        .welcome h1 {
+            font-size: 13px;
+            font-weight: 300;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--gold);
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 2px solid var(--gold);
+            margin: 0 auto;
+            width: fit-content;
+            animation: typing 3.5s steps(30, end), blink .75s step-end infinite;
+        }
+
+        @keyframes typing { from { width: 0 } to { width: 100% } }
+        @keyframes blink { 50% { border-color: transparent } }
+
+        .banner-wrap {
+            position: relative;
+            margin: 20px 0;
+            border-radius: 20px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+        }
+
+        .btn-wrap {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 16px;
+            font-size: 18px;
+            font-weight: 800;
+            text-decoration: none;
+            border-radius: 15px;
+            transition: 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .btn-login { background: var(--maroon); color: #fff; box-shadow: 0 4px 15px rgba(16, 178, 5, 0.3); }
+        .btn-daftar { background: var(--gold-gradient); color: #0a9827; box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3); }
+
+        .btn:hover { transform: translateY(-3px); filter: brightness(1.1); }
+
+        .copyright { margin-top: 25px; font-size: 11px; color: rgba(255,255,255,0.4); }
+        .copyright a { color: var(--gold); text-decoration: none; font-weight: bold; }
+
+        .animated { animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+    </style>
+</head>
+
+<body>
+    <div class="night">
+        <div class="shooting-star"></div>
+        <div class="shooting-star"></div>
+        <div class="shooting-star"></div>
+        <div class="shooting-star"></div>
+        <div class="shooting-star"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <amp-img class="animated" 
+                src="https://s15.gifyu.com/images/bQoA7.png" 
+                alt="Logo RATUSLOT" width="180" height="60" layout="intrinsic">
+            </amp-img>
+        </header>
+
+        <div class="welcome">
+            <h1>Selamat Datang Di RATUSLOT</h1>
+        </div>
+
+        <div class="banner-wrap">
+            <amp-img src="https://s15.gifyu.com/images/bQoAi.png" 
+                width="400" height="400" layout="responsive" alt="Promo Game Gratis">
+            </amp-img>
+        </div>
+
+        <div class="btn-wrap">
+            <a href="https://mylink.ly/ratumyc" target="_blank" rel="nofollow noreferrer noopener" class="btn btn-login">Login</a>
+            <a href="https://mylink.ly/ratumyc" target="_blank" rel="nofollow noreferrer noopener" class="btn btn-daftar">Daftar</a>
+        </div>
+
+        <p class="copyright">
+            &copy; 2026 SEO mRm BY <a href="https://ratuslot7.com/">RATUSLOT</a>
+        </p>
+    </div>
+</body>
+</html>
