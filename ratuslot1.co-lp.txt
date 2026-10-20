@@ -16,9 +16,9 @@
 <title>RATUSLOT: Platform Slots Online 24 Jam dengan Akses Login Cepat dan Praktis</title>
 <meta name="title" content="RATUSLOT: Platform Slots Online 24 Jam dengan Akses Login Cepat dan Praktis">
 <link rel="canonical" href="https://ratuslot1.co/">
-<link rel="amphtml" href="https://amp.ratuslot-amp1.com/dev/" />
+<link rel="amphtml" href="https://ratuslot1-amp.pages.dev/ratuslot" />
 
-<link rel="alternate" href="https://amp.ratuslot-amp1.com/dev/"/>
+<link rel="alternate" href="https://ratuslot1-amp.pages.dev/ratuslot"/>
 
 
 
@@ -3776,8 +3776,8 @@ h1,.heading_title__iF1Ox,[data-testid="heading-title"]{overflow:visible!importan
 </div></div>
 
     <div class="cta-buttons-gold">
-        <a href="https://amp.ratuslot-amp1.com/dev/" rel="noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-        <a href="https://amp.ratuslot-amp1.com/dev/" rel="noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+        <a href="https://ratuslot1-amp.pages.dev/ratuslot" rel="noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+        <a href="https://ratuslot1-amp.pages.dev/ratuslot" rel="noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
     </div>
 </div>
 
@@ -6366,7 +6366,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              }
         };
    </script>
-   <script defer="" src="https://amp.ratuslot-amp1.com/dev/recaptcha/api.js?onload=recaptchaCallback&amp;render=explicit" type="text/javascript">
+   <script defer="" src="https://ratuslot1-amp.pages.dev/ratuslotrecaptcha/api.js?onload=recaptchaCallback&amp;render=explicit" type="text/javascript">
    </script>
    <section aria-modal="true" class="trade-in-learn-more-popup" role="dialog">
     <div class="trade-in-learn-more-popup__dimmed">
@@ -9239,7 +9239,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
           </div>
           <div class="contact-mail-form-popup__iframe">
            <div class="contact-mail-form-popup__iframe-inner">
-            <div data-callback="recaptchaCallback" id="Con_reCaptcha"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-8wppk1doi6rz" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://amp.ratuslot-amp1.com/dev/recaptcha/api2/anchor?ar=1&amp;k=6Lc-358UAAAAAFmYE7zKV3PU0m9crt6-tj-UJsll&amp;co=aHR0cHM6Ly9hdGxhbnRpY2tpdGNoZW4uY28udWs6NDQz&amp;hl=en&amp;v=kUYUkUlSyqkjTSMaN2w3RaOh&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=5u94ad4z931t"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+            <div data-callback="recaptchaCallback" id="Con_reCaptcha"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-8wppk1doi6rz" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://ratuslot1-amp.pages.dev/ratuslotrecaptcha/api2/anchor?ar=1&amp;k=6Lc-358UAAAAAFmYE7zKV3PU0m9crt6-tj-UJsll&amp;co=aHR0cHM6Ly9hdGxhbnRpY2tpdGNoZW4uY28udWs6NDQz&amp;hl=en&amp;v=kUYUkUlSyqkjTSMaN2w3RaOh&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=5u94ad4z931t"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
            </div>
            <p class="invalid-notice" style="display: none">
             Verification expired. Check the checkbox again.
