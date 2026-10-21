@@ -1,0 +1,556 @@
+
+
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>RATUSLOT: Portal APK Slots Online Terpercaya dengan Kualitas Game Terbaik dan Informasi RTP Update</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="RATUSLOT hadir sebagai portal APK slots online dengan pilihan game populer, tampilan praktis, akses yang mudah, serta informasi RTP terbaru untuk membantu pengguna mengenal fitur dan mekanisme permainan secara lebih jelas.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:url" content="https://ratuselot9.com/">
+  <meta property="og:image" content="https://s15.gifyu.com/images/bWMvv.png">
+  <link rel="icon" type="image/x-icon" href="https://s15.gifyu.com/images/bWMEb.png">
+  <link rel="canonical" href="https://ratuselot9.com/">
+  <link rel="alternate" href="https://ratuselot9.com/" hreflang="id-ID" />
+  <link rel="alternate" href="https://ratuselot9.com/" hreflang="id" />
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <!-- AMP BOILERPLATE -->
+  <style amp-boilerplate>
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript>
+    <style amp-boilerplate>
+      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+    </style>
+  </noscript>
+
+  <!-- CUSTOM CSS -->
+  <style amp-custom>
+    :root {
+      --bg: #030001;
+      --panel: #0a0103;
+      --panel2: #180206;
+      --rose: #ffe600;
+      --rose-light: #ffd633;
+      --rose-glow: #ffff00;
+      --rose-dark: #807700;
+      --white: #ffffff;
+      --text: #fff0f3;
+      --shadow: rgba(0, 0, 0, 0.9);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      min-height: 100%;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 50% 0%, rgba(246, 255, 0, 0.25), transparent 40%),
+        repeating-linear-gradient(
+          90deg,
+          rgba(255, 51, 102, 0.02) 0px,
+          rgba(255, 51, 102, 0.02) 1px,
+          transparent 1px,
+          transparent 35px
+        ),
+        linear-gradient(180deg, #040500, #000);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 16px;
+    }
+
+    /* ========================= ROBOT MAIN SHELL ========================= */
+    .shell {
+      max-width: 520px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+      position: relative;
+    }
+
+    /* Garis Teknologi Kiri Kanan (Merah Mawar Glowing) */
+    .shell::before, .shell::after {
+      content: "";
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: linear-gradient(
+        transparent,
+        var(--rose-light),
+        var(--rose),
+        transparent
+      );
+      box-shadow: 0 0 20px var(--rose-glow), 0 0 10px var(--rose);
+      pointer-events: none;
+    }
+
+    .shell::before {
+      left: calc(50% - 285px);
+    }
+
+    .shell::after {
+      right: calc(50% - 285px);
+    }
+
+    /* ========================= HEADER / LOGO ========================= */
+    .header {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      position: relative;
+      padding: 16px 18px;
+      background: linear-gradient(145deg, #2b2702, #080800 45%, #151a01);
+      border: 2px solid var(--rose);
+      clip-path: polygon(
+        18px 0,
+        calc(100% - 18px) 0,
+        100% 18px,
+        100% calc(100% - 18px),
+        calc(100% - 18px) 100%,
+        18px 100%,
+        0 calc(100% - 18px),
+        0 18px
+      );
+      box-shadow:
+        0 12px 25px rgba(0, 0, 0, 0.9),
+        inset 0 1px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -5px 10px rgba(0, 0, 0, 0.95),
+        0 0 25px rgba(255, 234, 0, 0.6);
+    }
+
+    /* Baut Robot Merah Mawar */
+    .header::before, .header::after {
+      content: "";
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      border-radius: 50%;
+      background: radial-gradient(circle at 35% 30%, #fff, var(--rose-light) 30%, var(--rose-dark) 70%, #000);
+      border: 1px solid #000;
+      box-shadow: 0 0 10px var(--rose-glow);
+    }
+
+    .header::before { left: 12px; }
+    .header::after { right: 12px; }
+
+    .logo {
+      border-radius: 8px;
+      max-width: 100%;
+      filter: drop-shadow(0 5px 6px rgba(8, 8, 8, 0.9)) drop-shadow(0 0 12px var(--rose-glow));
+    }
+
+    /* ========================= MARQUEE ROBOT DISPLAY ========================= */
+    .marquee-wrapper {
+      width: 100%;
+      position: relative;
+      overflow: hidden;
+      padding: 11px 0;
+      background: linear-gradient(180deg, #1f1e02, #040500);
+      border-top: 2px solid var(--rose);
+      border-bottom: 2px solid var(--rose);
+      box-shadow:
+        inset 0 5px 12px rgba(255, 255, 255, 0.05),
+        inset 0 -5px 12px rgba(0, 0, 0, 0.9),
+        0 0 20px rgba(255, 217, 0, 0.5);
+    }
+
+    .marquee-wrapper::before {
+      content: "";
+      position: absolute;
+      top: 2px;
+      left: 8px;
+      font-size: 6px;
+      letter-spacing: 2px;
+      color: var(--rose-light);
+    }
+
+    .marquee-text {
+      display: inline-block;
+      white-space: nowrap;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding-left: 100%;
+      text-shadow: 0 0 8px var(--rose), 0 0 15px var(--rose-glow);
+      animation: marquee 9s linear infinite;
+    }
+
+    @keyframes marquee {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+
+    /* ========================= ROBOT MECHA CARD ========================= */
+    .card {
+      position: relative;
+      width: 100%;
+      padding: 22px;
+      background:
+        linear-gradient(135deg, rgba(255, 248, 51, 0.15), transparent 15%),
+        repeating-linear-gradient(
+          90deg,
+          rgba(255, 208, 0, 0.03) 0,
+          rgba(255, 208, 0, 0.03) 1px,
+          transparent 1px,
+          transparent 8px
+        ),
+        linear-gradient(145deg, #2b2702 0%, #080800 30%, #141501 70%, #020200 100%);
+      border: 2px solid var(--rose);
+      clip-path: polygon(
+        24px 0,
+        calc(100% - 24px) 0,
+        100% 24px,
+        100% calc(100% - 24px),
+        calc(100% - 24px) 100%,
+        24px 100%,
+        0 calc(100% - 24px),
+        0 24px
+      );
+      box-shadow:
+        0 25px 45px rgba(0, 0, 0, 0.95),
+        0 0 30px rgba(255, 217, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.25),
+        inset 0 -10px 25px rgba(0, 0, 0, 0.95);
+      overflow: hidden;
+      transition: .35s ease;
+    }
+
+    /* Garis Cahaya Scanner Kilat Cepat (Card) */
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -130%;
+      width: 70%;
+      height: 100%;
+      z-index: 0;
+      background: linear-gradient(
+        110deg,
+        transparent,
+        rgba(255, 238, 0, 0.05),
+        rgba(242, 255, 102, 0.4),
+        rgba(255, 255, 255, 0.7),
+        rgba(238, 255, 0, 0.1),
+        transparent
+      );
+      transform: skewX(-18deg);
+      animation: robotScanner 2.2s linear infinite;
+    }
+
+    @keyframes robotScanner {
+      0% { left: -130%; }
+      100% { left: 160%; }
+    }
+
+    .card::after {
+      content: "";
+      position: absolute;
+      inset: 8px;
+      pointer-events: none;
+      border: 1px solid rgba(255, 214, 51, 0.4);
+      clip-path: polygon(
+        18px 0,
+        calc(100% - 18px) 0,
+        100% 18px,
+        100% calc(100% - 18px),
+        calc(100% - 18px) 100%,
+        18px 100%,
+        0 calc(100% - 18px),
+        0 18px
+      );
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow:
+        0 30px 55px rgba(0, 0, 0, 0.95),
+        0 0 45px rgba(255, 200, 0, 0.8),
+        inset 0 1px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -10px 25px rgba(0, 0, 0, 0.95);
+    }
+
+    /* ========================= HERO ========================= */
+    .hero {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      align-items: center;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      border: 2px solid var(--rose);
+      box-shadow:
+        0 12px 25px rgba(0, 0, 0, 0.9),
+        0 0 20px rgba(255, 217, 0, 0.5),
+        inset 0 0 15px rgba(255, 213, 0, 0.2);
+      filter: contrast(1.05) saturate(1.1);
+    }
+
+    /* ========================= CTA CONTROL PANEL ========================= */
+    .cta {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      width: 100%;
+      position: relative;
+      z-index: 3;
+    }
+
+    /* Tombol Mecha 3D Merah Mawar */
+    .btn {
+      min-height: 58px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      text-align: center;
+      padding: 15px 14px;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 900;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--rose-light);
+      border-radius: 8px;
+      background: linear-gradient(
+        180deg,
+        #665C00 0%,
+        #333000 20%,
+        #0c0d00 55%,
+        #261b00 75%,
+        #000 100%
+      );
+      text-shadow: 0 2px 0 #000, 0 0 8px var(--rose-glow);
+      box-shadow:
+        0 7px 0 #444d00,
+        0 11px 12px rgba(0, 0, 0, 0.85),
+        inset 0 2px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -4px 7px rgba(0, 0, 0, 0.9),
+        0 0 15px rgba(255, 217, 0, 0.5);
+      transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+    }
+
+    .btn::before {
+      content: "";
+      position: absolute;
+      top: 5px;
+      left: 7px;
+      right: 7px;
+      height: 8px;
+      border-radius: 5px;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        rgba(255, 219, 102, 0.9),
+        rgba(255, 255, 255, 0.2),
+        transparent
+      );
+      filter: blur(.2px);
+      opacity: .8;
+    }
+
+    /* Scanner Kilat Cepat (Tombol) */
+    .btn::after {
+      content: "";
+      position: absolute;
+      top: -20%;
+      left: -80%;
+      width: 40%;
+      height: 140%;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.8),
+        transparent
+      );
+      transform: skewX(-20deg);
+      animation: buttonScan 1.4s linear infinite;
+    }
+
+    @keyframes buttonScan {
+      0% { left: -80%; }
+      50%, 100% { left: 150%; }
+    }
+
+    .btn:hover {
+      transform: translateY(-3px);
+      filter: brightness(1.2);
+      box-shadow:
+        0 10px 0 #665C00,
+        0 15px 20px rgba(0, 0, 0, 0.9),
+        inset 0 2px 0 rgba(255, 255, 255, 0.4),
+        inset 0 -4px 7px rgba(0, 0, 0, 0.9),
+        0 0 25px var(--rose-glow),
+        0 0 45px rgba(255, 200, 0, 0.4);
+    }
+
+    .btn:active {
+      transform: translateY(5px);
+      box-shadow:
+        0 2px 0 #665C00,
+        0 5px 8px rgba(0, 0, 0, 0.85),
+        inset 0 3px 8px rgba(0, 0, 0, 0.9),
+        0 0 15px var(--rose);
+    }
+
+    /* LOGIN AKUN (Tombol Kanan Terang Kontras) */
+    .btn:nth-child(2) {
+      color: #fff;
+      background: linear-gradient(
+        180deg,
+        #ffd966 0%,
+        #ffe600 18%,
+        #ccb800 48%,
+        #807700 75%,
+        #4d4900 100%
+      );
+      text-shadow: 0 1px 2px #000, 0 0 10px #fff;
+      border-color: #fff899;
+      box-shadow:
+        0 7px 0 #665c00,
+        0 11px 14px rgba(0, 0, 0, 0.85),
+        inset 0 2px 0 rgba(255, 255, 255, 0.7),
+        inset 0 -5px 8px rgba(0, 0, 0, 0.6),
+        0 0 22px rgba(255, 238, 0, 0.75);
+    }
+
+    /* ========================= FOOTER ========================= */
+    .footer {
+      width: 100%;
+      text-align: center;
+      color: #fff;
+      font-size: 12px;
+      letter-spacing: .5px;
+      padding: 14px 10px;
+      margin-top: 8px;
+      position: relative;
+      z-index: 2;
+      background: linear-gradient(180deg, #1f1e02, #030001);
+      border-top: 1px solid var(--rose);
+      border-bottom: 1px solid rgba(255, 234, 0, 0.3);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 0 15px rgba(255, 234, 0, 0.3);
+    }
+
+    /* TEKS SLOWLY FLYING KILAT CEPAT & TEBAL */
+    .fast-flash-text {
+      font-weight: 900;
+      font-size: 14px;
+      letter-spacing: 1.5px;
+      display: inline-block;
+      background: linear-gradient(
+        90deg,
+        #ffe600 0%,
+        #ffd966 25%,
+        #ffffff 50%,
+        #ffd966 75%,
+        #ffe600 100%
+      );
+      background-size: 200% auto;
+      color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+      text-shadow: 0 0 12px rgba(255, 200, 0, 0.8), 0 0 20px rgba(255, 217, 0, 0.5);
+      animation: fastFlash 0.8s linear infinite; /* Kilat Cepat 0.8 Detik */
+    }
+
+    @keyframes fastFlash {
+      0% {
+        background-position: 0% center;
+        filter: brightness(1) drop-shadow(0 0 5px #ffe600);
+      }
+      50% {
+        filter: brightness(1.6) drop-shadow(0 0 15px #ffffff);
+      }
+      100% {
+        background-position: 200% center;
+        filter: brightness(1) drop-shadow(0 0 5px #ffe600);
+      }
+    }
+
+    /* ========================= MOBILE ========================= */
+    @media(max-width: 480px) {
+      body { padding: 10px; }
+      .card { padding: 16px; }
+      .cta { gap: 10px; }
+      .btn { min-height: 55px; padding: 13px 8px; font-size: 13px; }
+      .shell::before, .shell::after { display: none; }
+      .fast-flash-text { font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <!-- LOGO -->
+    <header class="header">
+      <amp-img
+        class="logo"
+        src="https://s15.gifyu.com/images/bWME2.gif"
+        width="290" height="80" layout="fixed"
+        alt="RUPIAHTOTO - Logo">
+      </amp-img>
+    </header>
+
+    <div class="marquee-wrapper">
+      <div class="marquee-text">
+        SELAMAT DATANG DI RATUSLOT: Portal APK Slots Online Terpercaya dengan Kualitas Game Terbaik dan Informasi RTP Update
+      </div>
+    </div>
+
+    <section class="card hero">
+      <amp-img
+        class="hero-img"
+        src="https://s15.gifyu.com/images/bWMvv.png"
+        width="1024" height="1024" layout="responsive"
+        alt="RUPIAHTOTO">
+      </amp-img>
+
+      <div class="cta">
+        <a class="btn" href="https://mylink.ly/ratumyc" target="_blank">
+          ⚙ DAFTAR AKUN
+        </a>
+        <a class="btn" href="https://mylink.ly/ratumyc" target="_blank">
+          ✦ LOGIN AKUN
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="copyright">
+        <span class="fast-flash-text">✦ SEO MRM x RATUSLOT ✦</span>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
