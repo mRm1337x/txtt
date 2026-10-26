@@ -1,1891 +1,556 @@
 
-<!DOCTYPE html>
-<html amp lang="en">
-    <head>
 
-    <meta charset="utf-8">
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
-    <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-    <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
-    
-    
-    <link rel="icon" type="image/png" href="https://s15.gifyu.com/images/bWh1y.png">
-    <title>PANCING77 – Platform Hiburan Online yang Nyaman & Stabil</title>
-    
-    
-        <meta name="viewport" content="width=device-width, initial-scale=0.33">
-        
-    <link rel="canonical" href="#">
-    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Oswald&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
-    <!-- Load Ubuntu font -->
-    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Oswald&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>PANCING77 – Platform Hiburan Online yang Nyaman & Stabil</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PANCING77 merupakan platform hiburan online dengan sistem modern yang dirancang untuk memberikan pengalaman bermain yang stabil, cepat, dan ramah pengguna. Dengan pembaruan teknologi secara berkala, PANCING77 memastikan kelancaran akses untuk seluruh pengguna di berbagai perangkat.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:url" content="https://mylink.ly/pancing77">
+  <meta property="og:image" content="https://s15.gifyu.com/images/bWh1o.jpg">
+  <link rel="icon" type="image/x-icon" href="https://s15.gifyu.com/images/bWh1y.png">
+  <link rel="canonical" href="https://mylink.ly/pancing77">
+  <link rel="alternate" href="https://mylink.ly/pancing77" hreflang="id-ID" />
+  <link rel="alternate" href="https://mylink.ly/pancing77" hreflang="id" />
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <!-- AMP BOILERPLATE -->
+  <style amp-boilerplate>
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript>
     <style amp-boilerplate>
-      body {
-        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-        animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-      }
-      @-webkit-keyframes -amp-start {
-        from {
-          visibility: hidden;
-        }
-        to {
-          visibility: visible;
-        }
-      }
-      @-moz-keyframes -amp-start {
-        from {
-          visibility: hidden;
-        }
-        to {
-          visibility: visible;
-        }
-      }
-      @-ms-keyframes -amp-start {
-        from {
-          visibility: hidden;
-        }
-        to {
-          visibility: visible;
-        }
-      }
-      @-o-keyframes -amp-start {
-        from {
-          visibility: hidden;
-        }
-        to {
-          visibility: visible;
-        }
-      }
-      @keyframes -amp-start {
-        from {
-          visibility: hidden;
-        }
-        to {
-          visibility: visible;
-        }
-      }
+      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
     </style>
-    <noscript>
-      <style amp-boilerplate>
-        body {
-          -webkit-animation: none;
-          -moz-animation: none;
-          -ms-animation: none;
-          animation: none;
-        }
-      </style>
-    </noscript>
-    
-    
+  </noscript>
 
-
-        <style amp-custom>
-    
-
-        :root {
-    --primary-color: #00afff;
-    --primary-background: #000000;
-    --line-color: #00afff;
-    --marquee-color: #FFFFFF;
-    --marquee-background: #113545;
-    --result-pasaran-color: #FFFFFF;
-    --result-tanggal-color: #000000;
-    --result-tanggal-background: #00adfa;
-    
-    --result-background: #111111;
-    --result-keluaran-color: #ffffff;
-    --result-border: 3px solid #9e9e9e;
-    
-    --text-color: #e0e0e0;
-    --primary-text-color: #ffffff;
-    --reverse-text-color: #000000;
-    
-    --secondary-background: #000000;
-    --hover-background: rgba(0, 0, 0, .9);
-    --menu-item-color: var(--text-color);
-}:root {
-    --text-size-default: .875rem;
-    --button-masuk-color: linear-gradient(#f17a77, #ee5f5b 60%, #ec4d49);
-    --button-daftar-color: linear-gradient(#74cae3, #5bc0de 60%, #4ab9db);
-    --menu-background: #0f212e;
-    --header-background: var(--primary-background); 
-    --content-background:  var(--primary-background);
-    --togel-background: var(--primary-background);
-    --provider-background: var(--secondary-background);
-    --transaksi-background: var(--secondary-background);
-    --bantuan-background: var(--secondary-background);
-    --guidelines-background: var(--secondary-background);
-    --footer-background: var(--secondary-background);
-    --button-promosi-color: linear-gradient(60deg, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
-    --content-body-background: linear-gradient(0deg, var(--togel-background) 0%, var(--marquee-background) 100%);
-    --mobile-padding-horizontal: 32px;
-}:root {
-    --secondary-background: #0b0b0b;
-    --primary-theme-color: black;
-    --reverse-theme-color: white;
-    --highlight-text-color: #FFD700;
-    --page-link-background: linear-gradient(0deg, rgba(23,26,33,1) 0%, rgba(71,81,99,1) 100%);
-    --page-link-color: var(--primary-text-color);
-    --page-link-border: 1px solid #bdbdbd;
-    --page-item-active-color: linear-gradient(0deg, rgba(18,20,25,1) 0%, rgba(7,8,10,1) 100%);
-    --page-item-active-background: var(--primary-color);
-    --page-item-active-border: 1px solid var(--primary-color);
-    --devider-color: linear-gradient(90deg, rgba(224,224,224,1) 0%, rgba(224,224,224,1) 25%, rgba(97,97,97,1) 25%, rgba(97,97,97,1) 100%);
-    --prepend-background: linear-gradient(#484e55, #3a3f44 60%, #313539);
-    --prepend-color: #ffffff;
-    --prepend-border: 0px;
-    --content-box-background: rgba(20, 20, 20, .5);
-    --informasi-menu-background: #333;
-    --informasi-content-background: #000;
-    
-}
-                
-
-
-            * {
-                margin: 0px;
-                padding: 0px;
-                box-sizing: border-box;
-            }
-            
-            html, body {
-                font-family: 'Ubuntu', sans-serif;
-                color: var(--text-color);
-                font-size: var(--text-size-default);
-                background: black;
-            
-            }
-            
-            input {
-                font-family: 'Ubuntu';
-            }  
-            
-            body {
-                display: grid;
-                place-items: center;
-            }
-            
-            .body-wrapper {
-                max-width: 576px;
-                overflow: hidden;
-            }
-            
-            #kontak-title{
-            	width:189px; 
-            	/*margin-top:-7px;*/
-            	margin-bottom: 10px; 
-            	border-radius:0px 4px 0px 0px; 
-            	padding-top:22px; 
-            	text-align:center; 
-            	height:50px;
-            	height: 83px;
-            	line-height: 18px;
-            	background: #000;
-            }
-            #kontak-content{
-            	width: 190px; 
-            	padding:5px 10px 8px 10px; 
-            	font-size: 15px;
-                background-color:#FFF;
-                color: #000; 
-            }
-            
-            .abel {
-                font-family: 'Abel', sans-serif;
-            }
-            
-            .btn-black{
-            	font-size: .8rem;
-            	width:100%;
-            	cursor:pointer;
-            	font-weight: bold;
-            	padding: 10px 8px;
-            	color: var(--text-color);
-            }
-            
-            .btn-black:hover {
-                color: var(--reverse-text-color);
-                background:  var(--primary-color);
-            }
-            
-            .menuleft {
-            	margin: 0px auto 0px;
-            	display: flex;
-            	flex-direction: column;
-            }
-            	
-            .menuleft > ul{
-            	padding: 0px;
-            	margin: 0px;
-            	list-style: none;
-            }
-            
-            
-            #informasi-menu{
-            	margin:150px auto 0px; 
-            	width:714px; 
-            	padding: 0px 0px 0px 0px; 
-            	box-shadow:rgba(0,0,0,.3) 0px 5px 10px 10px; 
-            	border:1px solid #333; 
-            	border-radius: 10px;
-            	background: var(--informasi-menu-background);
-            }
-            
-            #informasi-content {
-                border-radius: 0px 9px 9px 0px;
-                padding-left: 20px;
-                width: 563px;
-                background-color: var(--informasi-content-background);
-            }
-            
-            
-            #informasi-content-title {
-                width: 240px;
-                font-size: 1.2rem;
-                font-weight: bold;
-                padding-bottom: 12px;
-                margin-top: 20px;
-                border-bottom: 3px var(--primary-color) solid;
-                color: var(--text-primary-color);
-            }
-            
-            #informasi-content-info {
-                margin-top: 12px;
-                font-weight: 300;
-                color: var(--text-primary-color);
-            }
-            
-            
-            .closebox {
-                position: absolute;
-                top: -10px;
-                right: 5px;
-                font-size: 35px;
-                cursor: pointer;
-            }
-            
-            #informasi-logo {
-                padding: 24px 0;
-                width: 100%;
-                display: grid;
-                place-items: center;
-                
-            }
-            
-            .running-text {
-                animation: scroll 10s linear infinite;
-            }
-            
-            @keyframes scroll{
-              0% {
-               left: 100%;
-              }
-              100% {
-                left: -800px;
-              }
-            }
-            
-            table {
-                color: var(--text-primary-color);
-            }
-            
-            tr:nth-child(odd) {
-                background: linear-gradient(0deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.05) 100%);
-            }
-            
-            tbody, td, tfoot, th, thead, tr {
-                border: none;
-            }
-            
-            .table-striped>tbody>tr:nth-of-type(odd)>* {
-                color: var(--text-primary-color);
-            }
-            
-            .wrapper {
-                display: grid;
-                grid-template-columns: 1fr;
-                grid-template-areas:
-                "header"
-                "devider"
-                "marquee"
-                "contentdata"
-                "togel-desktop"
-                "provider"
-                "transaksi"
-                "guidelines"
-                "bantuan"
-                "footer"
-            }
-            
-            
-            a {
-                color: inherit; /* blue colors for links too */
-                text-decoration: inherit; /* no underline */
-            }
-            
-            ul {
-                padding: 0;
-            }
-            
-            .wrapper>*>* {
-                margin: auto;
-                width: 1000px;
-            }
-            
-            .center {
-                display: grid;
-                place-items: center;
-            }
-            
-            .btn {
-                height: 30px; 
-                border-radius: 3px;
-            }
-            
-            .btn-masuk {
-                background: var(--button-masuk-color);
-                color: white;
-            }
-            
-            .btn-daftar {
-                background: var(--button-daftar-color);
-                color: white;
-            }
-            
-            .desktop-only {
-                display: block;
-            }
-            
-            
-            @keyframes gradient {
-                0% {
-                    background-position: 0% 50%;
-                }
-                50% {
-                    background-position: 100% 50%;
-                }
-                100% {
-                    background-position: 0% 50%;
-                }
-            }
-            
-            
-            .header {
-                background: var(--header-background);
-                grid-area: header;
-                height: 102px;
-            }
-            
-            .header-content {
-                height: 100%;
-                display: grid;
-                grid-template-columns: 1fr 1fr auto;
-            
-                grid-template-areas:
-                "logo login login"
-                "logo menu promosi"
-            }
-            
-            .logo {
-                grid-area: logo;
-                display: flex;
-                align-items: center;
-            }
-            
-            /* Desktop */
-            .logoimg {
-                height: 64px;
-                width: 230px;
-                object-fit: contain;
-                object-position: left;
-            }
-            
-            .login {
-                grid-area: login;
-                display: flex;
-                justify-content: end;
-                align-items: end;
-                
-            }
-            
-            .login-form {
-                
-                display: flex;
-                align-items: center;
-                justify-content: end;
-                gap: 4px;
-            }
-            
-            .login-field {
-                width: 104px; 
-                height: 30px; 
-                border-radius: 3px;
-            }
-            
-            .login-input-field {
-                margin: 0px;
-                padding: 0px 8px;
-                border-radius: 3px;
-            }
-            
-            
-            .promosi {
-                grid-area: promosi;
-                display: flex; 
-                align-items: center;
-            }
-            
-            .menu {
-                grid-area: menu;
-                display: flex;
-                align-items: center;
-                justify-content: flex-end;
-                gap: 12px;
-                font-size: 1.1rem;
-            }
-            
-            .menu-item>label:hover, .bantuan-item:hover {
-                color: var(--primary-color);
-                cursor: pointer;
-            }
-            
-            .menu-item>label {
-                white-space: nowrap;
-                color: var(--menu-item-color);
-            }
-            
-            
-            .devider {
-                grid-area: devider;
-                height: 3px;
-                width: 100%;
-                margin: 8px 0;
-            }
-            
-            .marquee {
-                height: 30px;
-                color: var(--marquee-color);
-                background: var(--marquee-background);
-                grid-area: marquee;
-                display: flex;
-                font-size: .8rem;
-                width: 100%;
-                border-top: 2px solid var(--line-color);
-            }
-            
-            .marquee-content {
-                display: flex;
-                white-space: nowrap;
-                padding: 0px 16px; align-items: center; width: 100%;
-                margin-bottom: 2px;
-            }
-            
-            
-            .contentdata {
-                grid-area: contentdata;
-                background: var(--primary-background);
-            }
-            
-            .contentdata>* {
-                width: 100%;
-            }
-            
-            .content-body {
-                overflow: hidden;
-            }
-            
-            .banner {
-                aspect-ratio: 1920 / 380;
-                background: var(--banner-background);
-            }
-            
-            
-            .my-navbar {
-                height: 52px; 
-                padding: 0px; 
-                width: 100%; 
-                background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.6) 100%), var(--primary-color); 
-                position: fixed; 
-                bottom: 0; 
-                color: white; 
-                z-index: 1100; 
-                display: flex; 
-                box-shadow: 0px -4px 3px rgba(0, 0, 0, 0.75);
-            }
-            
-            .navbar-item {
-                height: 100%; 
-                width: 100%; 
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
-            }
-            
-            .navbar-item-content {
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                position: absolute; 
-                top: -16px
-            }
-            
-            .navbar-item-content>i {
-                 font-size: 20px;
-                 line-height: 22px;
-                 color: white;
-                 padding-bottom: 4px;
-            }
-            
-            .navbar-item-content>img {
-                 height: 36px; 
-                 width: 36px;
-            }
-            
-            .navbar-item-content>label {
-                white-space: nowrap; 
-                margin-top: 4px; 
-                font-weight: bold; 
-                font-size: var(--text-size-default); 
-                color: white
-            }
-            
-            
-            
-            .provider {
-                background: var(--provider-background);
-                grid-area: provider
-            }
-            
-            .provider-group {
-            
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                padding: 24px 0;
-            
-            
-                /* "p-5 w-100 d-flex flex-column justify-content-center align-items-center" */
-            }
-            
-            .transaksi {
-                background: var(--transaksi-background);
-                grid-area: transaksi;
-                padding-bottom: 16px;
-                
-                display: flex;
-                justify-content: space-between;
-            }
-            
-            .transaksi-title {
-                grid-area: transaksi-title;
-                margin-bottom: 8px;
-            }
-            
-            .transaksi-title-group {
-                display: flex;
-                align-items: end;
-                gap: 4px;
-            }
-            
-            .transaksi-kontak {
-                display: flex;
-            }
-            
-            .other {
-                grid-area: other;
-                display: flex;
-                flex-direction: column;
-                justify-content: end;
-                align-self: start;
-            }
-            
-            .other-group {
-                display: flex;
-                flex-direction: column;
-                gap: 8px;
-            }
-            
-            .other-group>div {
-                height: 32;
-                display: flex;
-                justify-content: end;
-            }
-            
-            .guidelines {
-                grid-area: guidelines;
-                background: var(--guidelines-background);
-            }
-            
-            .guidelines-content {
-                padding-top: 48px; 
-                padding-bottom: 24px
-            }
-            
-            
-            .bantuan {
-                padding: 16px;
-                background: var(--bantuan-background);
-                grid-area: bantuan;
-            }
-            
-            .bantuan-content {
-                display: flex;
-                list-style-type: none;
-            }
-            
-            
-            .bantuan-devider {
-                padding: 0 16px;
-            }
-            
-            .footer {
-                font-size: .9rem;
-                background: var(--footer-background);
-                grid-area: footer;
-                padding: 16px 0;
-                border-top: 2px solid #bdbdbd;
-            }
-            
-            .copyright {
-                display: flex;
-                gap: 4px;
-            }
-            
-            .footer-group {
-                display: flex;
-                align-items: center;
-                gap: 32px;
-            }
-            
-            .prepend {
-                display: grid;
-                place-items: center;
-                background: var(--prepend-background); 
-                width: 40px;
-                border: var(--prepend-border) solid var(--bs-border-color);
-               
-            }
-            
-            .prepend-icon {
-                font-size: 18px;
-                color: var(--prepend-color);
-            }
-            
-            .content-area {
-                width: 1000px; 
-                margin: auto; 
-                padding: 8px 0;
-            }
-            
-            .content-main {
-                width: 1000px;
-                margin: auto;
-            }
-            
-            .content-box {
-                width: 100%; 
-                padding: 12px; 
-                background: var(--content-box-background); 
-                border-radius: 8px
-            }
-            
-            .devider {
-                background: var(--devider-color);
-            }
-            
-            .fitur-header {
-                font-size: 1.2rem; 
-                font-weight: bold; 
-                line-height: 1rem
-            }
-            
-            .panel-body, .card-body {
-                font-size: 1.1rem;
-            }
-            
-            .contentbox {
-                font-size: 1rem;
-            }
-            
-            
-    .transaksi-group {
-        display: grid;
-        grid-template-columns: 380px 1fr;
-        justify-content: space-between;
-        grid-template-areas:
-        "transaksi-bank transaksi-other";
-    }
-    
-    .transaksi-bank {
-        grid-area: transaksi-bank;
-        display: grid;
-        place-items: center
-    }
-    
-    .transaksi-other {
-        grid-area: transaksi-other;
-        display: flex;
-        justify-content: space-evenly;
-        width: 100%;
-    }
-    
-    .transaksi-list-bank {
-        height: fit-content;
-        display: grid;
-        grid-template-columns: repeat(4, 92px);
-        grid-template-rows: repeat(4, auto);
-        gap: 4px;
-    }
-    
-    .transaksi-list-other {
-        height: fit-content;
-        display: grid;
-        grid-template-columns: repeat(3, 92px);
-        gap: 4px;
-    }
-    
-    
-    .transaksi-item {
-        display: flex;
-        flex-direction: column;
-        /* transform: perspective(10px) rotateX(3deg); */
-    }
-    
-    .transaksi-header {
-
-        height: 30px;
-        border-radius: 5px;
-        display: grid;
-        place-items: center;
-        font-weight: bold;
-        border: 2px solid rgba(108,108,108,1);
-        background: rgba(54,54,54,1);
-        color: white;
-    }
-    
-    .transaksi-status {
-        margin-left: 3px;
-        margin-right: 3px;
-        height: 3px;
-        border-radius: 0px 0px 4px 4px;
-        background: rgb(54,54,54);
-        background: linear-gradient(90deg, rgba(54,54,54,1) 0%, rgba(108,108,108,1) 50%, rgba(54,54,54,1) 100%);
-    }
-    
-    .header-green {
-        background: rgba(44,121,6,1);
-        border-color: rgba(168,255,0,1);
-    }
-    
-    .header-blue {
-        background: rgba(0,80,89,1);
-        border-color: rgba(0,255,204,1);
-    }
-    
-    .status-green {
-        background: rgb(44,121,6);
-        background: linear-gradient(90deg, rgba(44,121,6,1) 0%, rgba(168,255,0,1) 50%, rgba(44,121,6,1) 100%);
-    }
-    
-    .status-blue {
-        background: rgb(0,80,89);
-        background: linear-gradient(90deg, rgba(0,80,89,1) 0%, rgba(0,255,204,1) 50%, rgba(0,80,89,1) 100%);
-    }
-    
-    .transaksi-name {
-        font-size: 1.1rem; 
-        font-weight: bold; 
-        line-height: 1.5rem
-    }
-    
-    .transaksi-wrapper {
-        display: flex;
-        flex-direction: column;
-        gap: .5rem;
+  <!-- CUSTOM CSS -->
+  <style amp-custom>
+    :root {
+      --bg: #030001;
+      --panel: #0a0103;
+      --panel2: #180206;
+      --rose: #ffe600;
+      --rose-light: #ffd633;
+      --rose-glow: #ffff00;
+      --rose-dark: #807700;
+      --white: #ffffff;
+      --text: #fff0f3;
+      --shadow: rgba(0, 0, 0, 0.9);
     }
 
-        
-      
-                .desktop-only {
-                    display: none;
-                }
-                
-                .mobile-only {
-                    display: block;
-                }
-            
-                .wrapper {
-                    display: grid;
-                    grid-template-columns: 1fr;
-                    grid-template-areas:
-                    "appbar"
-                    "marquee"
-                    "header"
-                    "contentdata"
-                    "togel-mobile"
-                    "devider"
-                    "provider"
-                    "transaksi"
-                    "bantuan"
-                    "footer"
-                    "guidelines"
-                }
-                
-                .appbar {
-                    grid-area: appbar;
-                    height: 72px;
-                    display: grid;
-                    place-items: center;
-                    /*box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;*/
-                }
-            
-                .wrapper>*>* {
-                    margin: auto;
-                    width: 100%;
-                    padding: 0 var(--mobile-padding-horizontal);
-                }
-            
-                .marquee {
-                    border-top: 3px solid var(--line-color);
-                }
-            
+    * {
+      box-sizing: border-box;
+    }
 
-            
-                .header {
-                    height: auto;
-                    padding: 0px;
-                }
-            
-                .header-content {
-                    padding: 0px;
-                    height: 100%;
-                    display: grid;
-                    grid-template-columns: 1fr;
-                    grid-template-areas:
-                    "marquee"
-                    "mslider"
-                    "menu-mobile"
-                    "menu-content"
-                    "login"
-                    "promosi"
-                }
-                
-                .menu-mobile {
-                    grid-area: menu-mobile;
-                }
-                
-                .menu-content {
-                    grid-area: menu-content;
-                }
-                
-           
-            
-                .logo {
-                    display: none
-                    
-                }
-                
-                /* Mobile */
-                .logoimg {
-                    height: 64px;
-                    width: 230px;
-                    margin: 0px;
-                    object-position: center;
-                }
-                
-                
-                .mslider {
-                    grid-area: mslider;
-                    aspect-ratio: 600/280;
-                    background: var(--primary-theme-color);
-                }
-                
-            
-                .menu {
-                    display: none;
-                }
-            
-                .menu-item {
-                    height: 100%;
-                    width: 100%;
-                    font-size: var(--text-size-default);
-                    /*display: grid;*/
-                    /*place-items: center;*/
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
-                    text-align: center;
-                    gap: 4px;
-                    padding-top: 4px;
-                    background: linear-gradient(90deg, rgba(26,26,26,0.3) 0%, rgba(0,0,0,0.3) 10%, rgba(0,0,0,0.3) 100%), var(--primary-color);
-                    /* border-left: 1px solid #555;
-                    border-right: 1px solid var(--primary-background); */
-                }
-                
-                .menu-item>label {
-                    white-space: nowrap;
-                    color: white;
-                    font-weight: bold;
-                    /*color: var(--marquee-color);*/
-                }
-            
-                .menu-item>img {
-                    height: 30px;
-                }
-            
-                .login {
-                    flex-direction: column;
-                }
-            
-                .login-form {
-                    padding: 32px 0;
-                    margin: 0px 80px;
-                    display: flex;
-                    flex-direction: column;
-                }
-            
-                .login-input-field {
-                    border-top-left-radius: 0;
-                    border-bottom-left-radius: 0;
-                    font-size: 1rem;
-                }
-            
-                .login-field, .login-form>button{
-                    height: 44px; 
-                    width: 100%;
-                    border-radius: 8px;
-                    overflow: hidden;
-                }
-            
-                .btn-masuk {
-                    font-size: 1.3rem;
-                    text-shadow: 1px 1px #000000;
-                    height: 44px;
-                    border-radius: 8px;
-                }
-                
-                .btn-daftar {
-                    font-size: 1.3rem;
-                    text-shadow: 1px 1px #000000;
-                    height: 48px;
-                    border-radius: 8px;
-                }
-            
-            
-                .promosi {
-                    padding: 0 calc(var(--mobile-padding-horizontal) * 2);
-                    gap: 4px;
-                }
-            
-                .promosi>* {
-                    width: 100%;
-                }
-            
-                .contentdata {
-                    background: var(--primary-background);
-                    padding: 12px 0;
-                }
-            
-                .banner {
-                    aspect-ratio: 3;
-                }
-            
-                .banner>* {
-                    border-radius: 16px;
-                    border-collapse: separate;
-                    border: 2px solid gray;
-                }
-            
-                .content-main {
-                    width: 100%;
-                    padding: var(--mobile-padding-horizontal);
-                    padding-bottom: 0px;
-                    font-size: 1rem;
-                }
-            
-            
-                .provider-group {
-                    padding: var(--mobile-padding-horizontal);
-                }
-                
-                .transaksi-kontak {
-                    display: flex;
-                    flex-direction: column;
-                }
-            
-            
-                .transaksi-content {
-                    display: flex;
-                    flex-direction: column;
-                    /*padding: 0 calc(var(--mobile-padding-horizontal) * 2)*/
-                }
-                
-            
-            
-                .bantuan-content {
-                    flex-direction: column;
-                    list-style: disc;
-                    gap: 8px;
-                }
-                
-                .footer {
-                    font-size: 1rem;
-                    padding-bottom: 96px;
-                }
-            
-                .footer-group {
-                    /*justify-content: space-between;*/
-                    flex-direction: column;
-                    width: 100%;
-                }
-            
-                .copyright {
-                    flex-direction: column;
-                    font-size: 1rem;
-                    width: 100%;
-                }
-                .content-area {
-                    width: 100%;
-                }
-                
-                .content-box {
-                    width: 100%; 
-                    padding: 0px; 
-                    background: transparent; 
-                    border-radius: 0px
-                }
-            
-                .guidelines {
-                    grid-area: guidelines;
-                }
-                
-                .guidelines-content>img {
-                    width: 100%;
-                }
-            
-                .mobile-provider-group {
-                    display: grid;
-                    grid-template-columns: repeat(3, 1fr);
-                    gap: 8px;
-            
-                }
-                
-                .provider-item {
-                    display: grid;
-                    place-items: center;
-                }
-                
-                .provider-item>img {
-                    width: 100%;
-                    object-fit: contain;
-                    
-                }
-                
-                .fitur-header {
-                    font-size: 1.4rem;
-                }
-                
-                .panel-body, .card-body {
-                    font-size: 1.2rem;
-                }
-            
-                #mobileregister {
-                    margin: 0px;
-                }
-                        
-                .transaksi-group {
-                    display: grid;
-                    grid-template-columns: 1fr;
-                    grid-template-areas:
-                    "transaksi-bank"
-                    "transaksi-other";
-                    gap: 16px;
-                    
-                }
-                
-                .transaksi-header {
-                    font-size: 1.1rem;
-                    height: 36px;
-                }
-                
-                .transaksi-list-bank {
-                    grid-template-columns: repeat(4, 1fr);
-                }
-                
-                .transaksi-list-other {
-                    grid-template-columns: repeat(4, 1fr);
-                }
-                
-                .transaksi-list {
-                    display: grid;
-                    grid-template-columns: repeat(3, 1fr);
-                }
-                
-                .transaksi-item {
-                    width: 100%;
-                }
-                
-                .transaksi-title-group {
-                    justify-content: center;
-                    padding: 16px 0;
-                }
-                
-                .transaksi-name {
-                    font-size: 1.3rem;
-                    text-align: center;    
-                }
-        
-                .transaksi-wrapper {
-                    width: 100%;
-                    max-width: 100%;
-                    gap: 1rem;
-                }
-                
-            
-                
-                .login-input-field {
-                    font-size: 1.2rem;
-                }  
-            
-   
-            
-            
-            .btn-aduan {
-                background: linear-gradient(60deg, #b08432, #cfbe87, #b08432);
-                -webkit-background-clip: text;
-                -webkit-text-fill-color: transparent;
-                background-size: 300% 300%;
-                animation: gradient 2s ease infinite;
-            }
+    html, body {
+      margin: 0;
+      min-height: 100%;
+    }
 
-            
-            
-            
-            /* Bootstrap */
-            
-            :root {
-                --bs-blue: #0d6efd;
-                --bs-indigo: #6610f2;
-                --bs-purple: #6f42c1;
-                --bs-pink: #d63384;
-                --bs-red: #dc3545;
-                --bs-orange: #fd7e14;
-                --bs-yellow: #ffc107;
-                --bs-green: #198754;
-                --bs-teal: #20c997;
-                --bs-cyan: #0dcaf0;
-                --bs-black: #000;
-                --bs-white: #fff;
-                --bs-gray: #6c757d;
-                --bs-gray-dark: #343a40;
-                --bs-gray-100: #f8f9fa;
-                --bs-gray-200: #e9ecef;
-                --bs-gray-300: #dee2e6;
-                --bs-gray-400: #ced4da;
-                --bs-gray-500: #adb5bd;
-                --bs-gray-600: #6c757d;
-                --bs-gray-700: #495057;
-                --bs-gray-800: #343a40;
-                --bs-gray-900: #212529;
-                --bs-primary: #0d6efd;
-                --bs-secondary: #6c757d;
-                --bs-success: #198754;
-                --bs-info: #0dcaf0;
-                --bs-warning: #ffc107;
-                --bs-danger: #dc3545;
-                --bs-light: #f8f9fa;
-                --bs-dark: #212529;
-                --bs-primary-rgb: 13,110,253;
-                --bs-secondary-rgb: 108,117,125;
-                --bs-success-rgb: 25,135,84;
-                --bs-info-rgb: 13,202,240;
-                --bs-warning-rgb: 255,193,7;
-                --bs-danger-rgb: 220,53,69;
-                --bs-light-rgb: 248,249,250;
-                --bs-dark-rgb: 33,37,41;
-                --bs-primary-text-emphasis: #052c65;
-                --bs-secondary-text-emphasis: #2b2f32;
-                --bs-success-text-emphasis: #0a3622;
-                --bs-info-text-emphasis: #055160;
-                --bs-warning-text-emphasis: #664d03;
-                --bs-danger-text-emphasis: #58151c;
-                --bs-light-text-emphasis: #495057;
-                --bs-dark-text-emphasis: #495057;
-                --bs-primary-bg-subtle: #cfe2ff;
-                --bs-secondary-bg-subtle: #e2e3e5;
-                --bs-success-bg-subtle: #d1e7dd;
-                --bs-info-bg-subtle: #cff4fc;
-                --bs-warning-bg-subtle: #fff3cd;
-                --bs-danger-bg-subtle: #f8d7da;
-                --bs-light-bg-subtle: #fcfcfd;
-                --bs-dark-bg-subtle: #ced4da;
-                --bs-primary-border-subtle: #9ec5fe;
-                --bs-secondary-border-subtle: #c4c8cb;
-                --bs-success-border-subtle: #a3cfbb;
-                --bs-info-border-subtle: #9eeaf9;
-                --bs-warning-border-subtle: #ffe69c;
-                --bs-danger-border-subtle: #f1aeb5;
-                --bs-light-border-subtle: #e9ecef;
-                --bs-dark-border-subtle: #adb5bd;
-                --bs-white-rgb: 255,255,255;
-                --bs-black-rgb: 0,0,0;
-                --bs-font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-                --bs-font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-                --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-                --bs-body-font-family: var(--bs-font-sans-serif);
-                --bs-body-font-size: 1rem;
-                --bs-body-font-weight: 400;
-                --bs-body-line-height: 1.5;
-                --bs-body-color: #212529;
-                --bs-body-color-rgb: 33,37,41;
-                --bs-body-bg: #fff;
-                --bs-body-bg-rgb: 255,255,255;
-                --bs-emphasis-color: #000;
-                --bs-emphasis-color-rgb: 0,0,0;
-                --bs-secondary-color: rgba(33, 37, 41, 0.75);
-                --bs-secondary-color-rgb: 33,37,41;
-                --bs-secondary-bg: #e9ecef;
-                --bs-secondary-bg-rgb: 233,236,239;
-                --bs-tertiary-color: rgba(33, 37, 41, 0.5);
-                --bs-tertiary-color-rgb: 33,37,41;
-                --bs-tertiary-bg: #f8f9fa;
-                --bs-tertiary-bg-rgb: 248,249,250;
-                --bs-link-color: #0d6efd;
-                --bs-link-color-rgb: 13,110,253;
-                --bs-link-decoration: underline;
-                --bs-link-hover-color: #0a58ca;
-                --bs-link-hover-color-rgb: 10,88,202;
-                --bs-code-color: #d63384;
-                --bs-highlight-bg: #fff3cd;
-                --bs-border-width: 1px;
-                --bs-border-style: solid;
-                --bs-border-color: #dee2e6;
-                --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
-                --bs-border-radius: 3px;
-                --bs-border-radius-sm: 0.25rem;
-                --bs-border-radius-lg: 0.5rem;
-                --bs-border-radius-xl: 1rem;
-                --bs-border-radius-xxl: 2rem;
-                --bs-border-radius-2xl: var(--bs-border-radius-xxl);
-                --bs-border-radius-pill: 50rem;
-                --bs-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-                --bs-box-shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-                --bs-box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
-                --bs-box-shadow-inset: inset 0 1px 2px rgba(0, 0, 0, 0.075);
-                --bs-focus-ring-width: 0.25rem;
-                --bs-focus-ring-opacity: 0.25;
-                --bs-focus-ring-color: rgba(13, 110, 253, 0.25);
-                --bs-form-valid-color: #198754;
-                --bs-form-valid-border-color: #198754;
-                --bs-form-invalid-color: #dc3545;
-                --bs-form-invalid-border-color: #dc3545;
-            }
-            
-            .btn {
-                --bs-btn-padding-x: 0.75rem;
-                --bs-btn-padding-y: 0.375rem;
-                --bs-btn-font-family: 'Ubuntu';
-                --bs-btn-font-size: 1rem;
-                --bs-btn-font-weight: 400;
-                --bs-btn-line-height: 1.5;
-                --bs-btn-color: ;
-                --bs-btn-bg: transparent;
-                --bs-btn-border-width: var(--bs-border-width);
-                --bs-btn-border-color: transparent;
-                --bs-btn-border-radius: var(--bs-border-radius);
-                --bs-btn-hover-border-color: transparent;
-                --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15),0 1px 1px rgba(0, 0, 0, 0.075);
-                --bs-btn-disabled-opacity: 0.65;
-                --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
-                display: inline-block;
-                padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
-                font-family: 'Ubuntu';
-                font-size: var(--bs-btn-font-size);
-                font-weight: var(--bs-btn-font-weight);
-                line-height: var(--bs-btn-line-height);
-                color: white;
-                text-align: center;
-                text-decoration: none;
-                vertical-align: middle;
-                cursor: pointer;
-                -webkit-user-select: none;
-                -moz-user-select: none;
-                user-select: none;
-                border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
-                border-radius: var(--bs-btn-border-radius);
-                background-color: var(--bs-btn-bg);
-                transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-            }
-            
-            .fw-bold {
-                font-weight: 700;
-            }
-            
-            .px-2 {
-                padding-right: .5rem;
-                padding-left: .5rem;
-            }
-            
-            .p-0 {
-                padding: 0;
-            }
-            
-            .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
-                margin-left: calc(var(--bs-border-width)* -1);
-                border-top-left-radius: 0;
-                border-bottom-left-radius: 0;
-            }
-            
-            .input-group>.form-control, .input-group>.form-floating, .input-group>.form-select {
-                position: relative;
-                flex: 1 1 auto;
-                width: 1%;
-                min-width: 0;
-            }
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 50% 0%, rgba(246, 255, 0, 0.25), transparent 40%),
+        repeating-linear-gradient(
+          90deg,
+          rgba(255, 51, 102, 0.02) 0px,
+          rgba(255, 51, 102, 0.02) 1px,
+          transparent 1px,
+          transparent 35px
+        ),
+        linear-gradient(180deg, #040500, #000);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 16px;
+    }
 
-            
-            .login-input-field {
-                margin: 0px;
-                padding: 0px 8px;
-                border-radius: 3px;
-            }
-            
-            .form-control {
-                display: block;
-                width: 100%;
-                padding: .375rem .75rem;
-                font-weight: 400;
-                color: var(--bs-body-color);
-                background-color: var(--bs-body-bg);
-                background-clip: padding-box;
-                border: var(--bs-border-width) solid var(--bs-border-color);
-                -webkit-appearance: none;
-                -moz-appearance: none;
-                appearance: none;
-                border-radius: var(--bs-border-radius);
-                transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-            }
-            
-            .d-flex {
-                display: flex;
-            }
-            
-            .flex-column {
-                flex-direction: column;
-            }
-            
-            .justify-content-center {
-                justify-content: center;
-            }
-            
-            .align-items-center {
-                align-items: center;
-            }
-            
-            .gap-3 {
-                gap: 1rem;
-            }
-            
-            .w-100 {
-                width: 100%;
-            }
-            
-            .align-items-start {
-                align-items: start;
-            }
+    /* ========================= ROBOT MAIN SHELL ========================= */
+    .shell {
+      max-width: 520px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+      position: relative;
+    }
 
+    /* Garis Teknologi Kiri Kanan (Merah Mawar Glowing) */
+    .shell::before, .shell::after {
+      content: "";
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: linear-gradient(
+        transparent,
+        var(--rose-light),
+        var(--rose),
+        transparent
+      );
+      box-shadow: 0 0 20px var(--rose-glow), 0 0 10px var(--rose);
+      pointer-events: none;
+    }
 
-            
-        </style>
+    .shell::before {
+      left: calc(50% - 285px);
+    }
 
-        
-        
+    .shell::after {
+      right: calc(50% - 285px);
+    }
 
-        
+    /* ========================= HEADER / LOGO ========================= */
+    .header {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      position: relative;
+      padding: 16px 18px;
+      background: linear-gradient(145deg, #2b2702, #080800 45%, #151a01);
+      border: 2px solid var(--rose);
+      clip-path: polygon(
+        18px 0,
+        calc(100% - 18px) 0,
+        100% 18px,
+        100% calc(100% - 18px),
+        calc(100% - 18px) 100%,
+        18px 100%,
+        0 calc(100% - 18px),
+        0 18px
+      );
+      box-shadow:
+        0 12px 25px rgba(0, 0, 0, 0.9),
+        inset 0 1px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -5px 10px rgba(0, 0, 0, 0.95),
+        0 0 25px rgba(255, 234, 0, 0.6);
+    }
 
-    </head>
-    
-    
+    /* Baut Robot Merah Mawar */
+    .header::before, .header::after {
+      content: "";
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      border-radius: 50%;
+      background: radial-gradient(circle at 35% 30%, #fff, var(--rose-light) 30%, var(--rose-dark) 70%, #000);
+      border: 1px solid #000;
+      box-shadow: 0 0 10px var(--rose-glow);
+    }
 
-    <body id="desktop">
-    <div class="body-wrapper">
+    .header::before { left: 12px; }
+    .header::after { right: 12px; }
 
-    <div class="mobile-only" >
-        <div class="my-navbar" style="max-width: 576px">
-            <a href="https://mylink.ly/pancing77" class="navbar-item" style="position: relative">
-                <div class="navbar-item-content">
-                    <img src="https://img.viva88athenae.com//beranda.png"/>
-                    <label>BERANDA</label>
-                </div>
-            </a>
-            <div style="height: 36px; width: 3px; background: black; margin: auto"></div>
-            <a href="https://mylink.ly/pancing77"  class="navbar-item">
-                <div class="navbar-item-content">
-                    <img src="https://img.viva88athenae.com//promosi.png"/>
-                    <label>PROMOSI</label>
-                </div>
-            </a>
-            <div style="height: 36px; width: 3px; background: black; margin: auto"></div>
-            <a href="https://mylink.ly/pancing77"  class="navbar-item">
-                <div class="navbar-item-content">
-                    <img src="https://img.viva88athenae.com//events.png"/>
-                    <label>EVENT</label>
-                </div>
-            </a>
-            
-                        
-                            <div style="height: 36px; width: 3px; background: black; margin: auto"></div>
-                <a href="https://mylink.ly/pancing77/"  target="_blank" class="navbar-item">
-                <div class="navbar-item-content">
-                    <img src="https://img.viva88athenae.com//livechat.png"/>
-                    <label>LIVECHAT</label>
-                </div>
-                </a>
-            
-        </div>
-</div>
-    
-    
-    <div class="mobile-only" style="position: relative; background: var(--primary-background);">
-        <div class="appbar">
-            
-            <a href="/" style="width: auto"><img class="logoimg" src="https://s15.gifyu.com/images/bWh1y.png" alt=""></a>
-        </div>
+    .logo {
+      border-radius: 8px;
+      max-width: 100%;
+      filter: drop-shadow(0 5px 6px rgba(8, 8, 8, 0.9)) drop-shadow(0 0 12px var(--rose-glow));
+    }
+
+    /* ========================= MARQUEE ROBOT DISPLAY ========================= */
+    .marquee-wrapper {
+      width: 100%;
+      position: relative;
+      overflow: hidden;
+      padding: 11px 0;
+      background: linear-gradient(180deg, #1f1e02, #040500);
+      border-top: 2px solid var(--rose);
+      border-bottom: 2px solid var(--rose);
+      box-shadow:
+        inset 0 5px 12px rgba(255, 255, 255, 0.05),
+        inset 0 -5px 12px rgba(0, 0, 0, 0.9),
+        0 0 20px rgba(255, 217, 0, 0.5);
+    }
+
+    .marquee-wrapper::before {
+      content: "";
+      position: absolute;
+      top: 2px;
+      left: 8px;
+      font-size: 6px;
+      letter-spacing: 2px;
+      color: var(--rose-light);
+    }
+
+    .marquee-text {
+      display: inline-block;
+      white-space: nowrap;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding-left: 100%;
+      text-shadow: 0 0 8px var(--rose), 0 0 15px var(--rose-glow);
+      animation: marquee 9s linear infinite;
+    }
+
+    @keyframes marquee {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+
+    /* ========================= ROBOT MECHA CARD ========================= */
+    .card {
+      position: relative;
+      width: 100%;
+      padding: 22px;
+      background:
+        linear-gradient(135deg, rgba(255, 248, 51, 0.15), transparent 15%),
+        repeating-linear-gradient(
+          90deg,
+          rgba(255, 208, 0, 0.03) 0,
+          rgba(255, 208, 0, 0.03) 1px,
+          transparent 1px,
+          transparent 8px
+        ),
+        linear-gradient(145deg, #2b2702 0%, #080800 30%, #141501 70%, #020200 100%);
+      border: 2px solid var(--rose);
+      clip-path: polygon(
+        24px 0,
+        calc(100% - 24px) 0,
+        100% 24px,
+        100% calc(100% - 24px),
+        calc(100% - 24px) 100%,
+        24px 100%,
+        0 calc(100% - 24px),
+        0 24px
+      );
+      box-shadow:
+        0 25px 45px rgba(0, 0, 0, 0.95),
+        0 0 30px rgba(255, 217, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.25),
+        inset 0 -10px 25px rgba(0, 0, 0, 0.95);
+      overflow: hidden;
+      transition: .35s ease;
+    }
+
+    /* Garis Cahaya Scanner Kilat Cepat (Card) */
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -130%;
+      width: 70%;
+      height: 100%;
+      z-index: 0;
+      background: linear-gradient(
+        110deg,
+        transparent,
+        rgba(255, 238, 0, 0.05),
+        rgba(242, 255, 102, 0.4),
+        rgba(255, 255, 255, 0.7),
+        rgba(238, 255, 0, 0.1),
+        transparent
+      );
+      transform: skewX(-18deg);
+      animation: robotScanner 2.2s linear infinite;
+    }
+
+    @keyframes robotScanner {
+      0% { left: -130%; }
+      100% { left: 160%; }
+    }
+
+    .card::after {
+      content: "";
+      position: absolute;
+      inset: 8px;
+      pointer-events: none;
+      border: 1px solid rgba(255, 214, 51, 0.4);
+      clip-path: polygon(
+        18px 0,
+        calc(100% - 18px) 0,
+        100% 18px,
+        100% calc(100% - 18px),
+        calc(100% - 18px) 100%,
+        18px 100%,
+        0 calc(100% - 18px),
+        0 18px
+      );
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow:
+        0 30px 55px rgba(0, 0, 0, 0.95),
+        0 0 45px rgba(255, 200, 0, 0.8),
+        inset 0 1px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -10px 25px rgba(0, 0, 0, 0.95);
+    }
+
+    /* ========================= HERO ========================= */
+    .hero {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      align-items: center;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      border: 2px solid var(--rose);
+      box-shadow:
+        0 12px 25px rgba(0, 0, 0, 0.9),
+        0 0 20px rgba(255, 217, 0, 0.5),
+        inset 0 0 15px rgba(255, 213, 0, 0.2);
+      filter: contrast(1.05) saturate(1.1);
+    }
+
+    /* ========================= CTA CONTROL PANEL ========================= */
+    .cta {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      width: 100%;
+      position: relative;
+      z-index: 3;
+    }
+
+    /* Tombol Mecha 3D Merah Mawar */
+    .btn {
+      min-height: 58px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      text-align: center;
+      padding: 15px 14px;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 900;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--rose-light);
+      border-radius: 8px;
+      background: linear-gradient(
+        180deg,
+        #665C00 0%,
+        #333000 20%,
+        #0c0d00 55%,
+        #261b00 75%,
+        #000 100%
+      );
+      text-shadow: 0 2px 0 #000, 0 0 8px var(--rose-glow);
+      box-shadow:
+        0 7px 0 #444d00,
+        0 11px 12px rgba(0, 0, 0, 0.85),
+        inset 0 2px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -4px 7px rgba(0, 0, 0, 0.9),
+        0 0 15px rgba(255, 217, 0, 0.5);
+      transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+    }
+
+    .btn::before {
+      content: "";
+      position: absolute;
+      top: 5px;
+      left: 7px;
+      right: 7px;
+      height: 8px;
+      border-radius: 5px;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        rgba(255, 219, 102, 0.9),
+        rgba(255, 255, 255, 0.2),
+        transparent
+      );
+      filter: blur(.2px);
+      opacity: .8;
+    }
+
+    /* Scanner Kilat Cepat (Tombol) */
+    .btn::after {
+      content: "";
+      position: absolute;
+      top: -20%;
+      left: -80%;
+      width: 40%;
+      height: 140%;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.8),
+        transparent
+      );
+      transform: skewX(-20deg);
+      animation: buttonScan 1.4s linear infinite;
+    }
+
+    @keyframes buttonScan {
+      0% { left: -80%; }
+      50%, 100% { left: 150%; }
+    }
+
+    .btn:hover {
+      transform: translateY(-3px);
+      filter: brightness(1.2);
+      box-shadow:
+        0 10px 0 #665C00,
+        0 15px 20px rgba(0, 0, 0, 0.9),
+        inset 0 2px 0 rgba(255, 255, 255, 0.4),
+        inset 0 -4px 7px rgba(0, 0, 0, 0.9),
+        0 0 25px var(--rose-glow),
+        0 0 45px rgba(255, 200, 0, 0.4);
+    }
+
+    .btn:active {
+      transform: translateY(5px);
+      box-shadow:
+        0 2px 0 #665C00,
+        0 5px 8px rgba(0, 0, 0, 0.85),
+        inset 0 3px 8px rgba(0, 0, 0, 0.9),
+        0 0 15px var(--rose);
+    }
+
+    /* LOGIN AKUN (Tombol Kanan Terang Kontras) */
+    .btn:nth-child(2) {
+      color: #fff;
+      background: linear-gradient(
+        180deg,
+        #ffd966 0%,
+        #ffe600 18%,
+        #ccb800 48%,
+        #807700 75%,
+        #4d4900 100%
+      );
+      text-shadow: 0 1px 2px #000, 0 0 10px #fff;
+      border-color: #fff899;
+      box-shadow:
+        0 7px 0 #665c00,
+        0 11px 14px rgba(0, 0, 0, 0.85),
+        inset 0 2px 0 rgba(255, 255, 255, 0.7),
+        inset 0 -5px 8px rgba(0, 0, 0, 0.6),
+        0 0 22px rgba(255, 238, 0, 0.75);
+    }
+
+    /* ========================= FOOTER ========================= */
+    .footer {
+      width: 100%;
+      text-align: center;
+      color: #fff;
+      font-size: 12px;
+      letter-spacing: .5px;
+      padding: 14px 10px;
+      margin-top: 8px;
+      position: relative;
+      z-index: 2;
+      background: linear-gradient(180deg, #1f1e02, #030001);
+      border-top: 1px solid var(--rose);
+      border-bottom: 1px solid rgba(255, 234, 0, 0.3);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 0 15px rgba(255, 234, 0, 0.3);
+    }
+
+    /* TEKS SLOWLY FLYING KILAT CEPAT & TEBAL */
+    .fast-flash-text {
+      font-weight: 900;
+      font-size: 14px;
+      letter-spacing: 1.5px;
+      display: inline-block;
+      background: linear-gradient(
+        90deg,
+        #ffe600 0%,
+        #ffd966 25%,
+        #ffffff 50%,
+        #ffd966 75%,
+        #ffe600 100%
+      );
+      background-size: 200% auto;
+      color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+      text-shadow: 0 0 12px rgba(255, 200, 0, 0.8), 0 0 20px rgba(255, 217, 0, 0.5);
+      animation: fastFlash 0.8s linear infinite; /* Kilat Cepat 0.8 Detik */
+    }
+
+    @keyframes fastFlash {
+      0% {
+        background-position: 0% center;
+        filter: brightness(1) drop-shadow(0 0 5px #ffe600);
+      }
+      50% {
+        filter: brightness(1.6) drop-shadow(0 0 15px #ffffff);
+      }
+      100% {
+        background-position: 200% center;
+        filter: brightness(1) drop-shadow(0 0 5px #ffe600);
+      }
+    }
+
+    /* ========================= MOBILE ========================= */
+    @media(max-width: 480px) {
+      body { padding: 10px; }
+      .card { padding: 16px; }
+      .cta { gap: 10px; }
+      .btn { min-height: 55px; padding: 13px 8px; font-size: 13px; }
+      .shell::before, .shell::after { display: none; }
+      .fast-flash-text { font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <!-- LOGO -->
+    <header class="header">
+      <amp-img
+        class="logo"
+        src="https://s15.gifyu.com/images/bWh1y.png"
+        width="290" height="80" layout="fixed"
+        alt="PANCING77 - Logo">
+      </amp-img>
+    </header>
+
+    <div class="marquee-wrapper">
+      <div class="marquee-text">
+        SELAMAT DATANG DI PANCING77 – Platform Hiburan Online yang Nyaman & Stabil
+      </div>
     </div>
-        
-        
-        <div id="top" class="wrapper">
-            
-            <header class="header">
-                <div class="header-content">
-                    <div class="logo">
-                        <a href='/'><img src="https://s15.gifyu.com/images/bWh1y.png"  class='logoimg' alt=""></a>
-                    </div>
-                    
-                    <div class="mobile-only">
-                        <div id="marquee-mobile" class="marquee w-100">
-                            <div class="marquee-content">
-                                SELAMAT DATANG DI WEBSITE PANCING77          
-                            </div>
-                        </div>
-                        
-                            <amp-animation id="marquee-animation" layout="nodisplay">
-                            <script type="application/json">
-                                {
-                                    "animations": [
-                                        {
-                                            "selector": ".marquee-content",
-                                            "keyframes": [
-                                                { "transform": "translateX(100%)", "offset": 0 },
-                                                { "transform": "translateX(-100%)", "offset": 1 }
-                                            ],
-                                            "duration": "10000ms",
-                                            "iterations": "infinite",
-                                            "easing": "linear"
-                                        }
-                                    ]
-                                }
-                            </script>
-                        </amp-animation>
-                        <amp-position-observer on="scroll:marquee-animation.start" layout="nodisplay"></amp-position-observer>
-                    
-                    </div>
 
-                    <div class="mslider mobile-only">
-                        
-                                                        
-                                <img src="https://s15.gifyu.com/images/bWh1o.jpg" class="d-block w-100 banner" alt="Wede Miliaran dibayar Lunas" style="height: 100%">
-                                
-                                                        
-                        
-                    </div>
-                    
-                    <div class="login">
-                    
-                        
+    <section class="card hero">
+      <amp-img
+        class="hero-img"
+        src="https://s15.gifyu.com/images/bWh1o.jpg"
+        width="1024" height="1024" layout="responsive"
+        alt="PANCING77">
+      </amp-img>
 
-                        
-                            <div id="mobilelogin" class="mobile-only" style="width: 100%">
-                                <form class="login-form form" action-xhr="https://example.com/subscribe" method="post" style="padding: 0px; padding-top: 32px" role="form">
-                                    <div id="msgbox" style="font-size: 1rem; width: 100%"></div>
-                                    <!--<input type="text" name="username" class="form-control login-input-field username" style="border-radius: 8px; height: 44px" placeholder="Username" aria-label="Username">-->
-                                    <!--<input type="password" name="password" class="form-control login-input-field password" style="border-radius: 8px; height: 44px" placeholder="Password" aria-label="Password">-->
-                                
+      <div class="cta">
+        <a class="btn" href="https://mylink.ly/pancing77" target="_blank">
+          ⚙ DAFTAR AKUN
+        </a>
+        <a class="btn" href="https://mylink.ly/pancing77" target="_blank">
+          ✦ LOGIN AKUN
+        </a>
+      </div>
+    </section>
 
-                                    <input type="hidden" name="verif" id="verifval" class="verifval" value="1">
-        
-        
-                                    <a href='https://mylink.ly/pancing77' class="w-100"><button type="button" class="btn btn-masuk fw-bold p-0 px-2 submit w-100" style="font-size: 1.3rem">Masuk</button></a>
-                                    <a href='https://mylink.ly/pancing77' class="w-100"><button type="button" class="btn btn-daftar btn-info btn-daftar-mobile fw-bold p-0 px-2 w-100" style="font-size: 1.3rem">Daftar Sekarang</button></a>
-
-                                    
-                                    <input type="hidden" name="task" value="login">    
-                                </form>
-                            </div>
-                            
-                    </div>
-    
-            
-
-        
-                                            
-                                            
-                    <div class="menu-mobile" style="width: 100%; overflow: hidden; position: relative; border-top: 3px solid var(--primary-color); border-bottom: 3px solid var(--theme-color)">
-                        
-                        
-                        
-                        <div id="menu-mobile" style="height:68px; overflow-x:  hidden; overflow-y: hidden; max-width: 100%; display: block;  background: linear-gradient(90deg, rgba(26,26,26,0.3) 0%, rgba(0,0,0,0.3) 10%, rgba(0,0,0,0.3) 100%), var(--primary-color)">
-                        
-                        
-                            <div style="white-space: nowrap; height: 100%; font-size: 0px">
-                                                                                
-                                        <a href="#togel-mobile" style="height: 100%; width: 92px; display: inline-block;">
-                                            <div style="display: grid; place-items: center; height: 100%">
-                                                <div class="menu-item">
-                                                    <img class="mobile-only" src="https://img.viva88athenae.com//icon-togel.png" alt="">
-                                                    <label>TOGEL</label>
-                                                </div>
-                                            </div>
-                                        </a>
-                                            
-                                                                        <div style="height: 100%; width: 92px; display: inline-block;">
-                                        <div style="display: grid; place-items: center; height: 100%">
-                                            <div class="menu-item">
-                                                <img class="mobile-only" src="https://img.viva88athenae.com//icon-slot.png" alt="">
-                                                <label>SLOT</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div style="height: 100%; width: 92px; display: inline-block;">
-                                        <div style="display: grid; place-items: center; height: 100%">
-                                            <div class="menu-item">
-                                                <img class="mobile-only" src="https://img.viva88athenae.com//icon-live.png" alt="">
-                                                <label>LIVE CASINO</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div style="height: 100%; width: 92px; display: inline-block;">
-                                        <div style="display: grid; place-items: center; height: 100%">
-                                            <div class="menu-item">
-                                                <img class="mobile-only" src="https://img.viva88athenae.com//icon-sport.png" alt="">
-                                                <label>SPORT</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--<div style="height: 100%; width: 92px; display: inline-block;">-->
-                                    <!--    <div style="display: grid; place-items: center; height: 100%">-->
-                                    <!--        <div class="menu-item" onclick="showProvider('esport')">-->
-                                    <!--            <img class="mobile-only" src="https://img.viva88athenae.com//icon-esport.png" alt="">-->
-                                    <!--            <label>E-SPORT</label>-->
-                                    <!--        </div>-->
-                                    <!--    </div>-->
-                                    <!--</div>-->
-                                    <div style="height: 100%; width: 92px; display: inline-block;">
-                                        <div style="display: grid; place-items: center; height: 100%">
-                                        <div class="menu-item">
-                                            <img class="mobile-only" src="https://img.viva88athenae.com//icon-fishing.png" alt="">
-                                            <label>ARCADE</label>
-                                        </div>
-                                        </div>
-                                    </div>
-                                    <div style="height: 100%; width: 92px; display: inline-block;">
-                                        <div style="display: grid; place-items: center; height: 100%">
-                                            <div class="menu-item">
-                                                <img class="mobile-only" src="https://img.viva88athenae.com//icon-sabung.png" alt="">
-                                                <label>SABUNG</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div style="height: 100%; width: 92px; display: inline-block;">
-                                        <div style="display: grid; place-items: center; height: 100%">
-                                            <div class="menu-item">
-                                                <img class="mobile-only" src="https://img.viva88athenae.com//icon-interactive.png" alt="">
-                                                <label>INTERACTIVE</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </div>
-                        </div>                                                                                                                        
-                    </div>
-
-                    
-                    <div class="menu-content mobile-only">
-                            <div id="main-content" style="background: var(--content-box-background)">
-                            </div>
-                    </div>
-        
-                    <div class="promosi">
-                        <!-- Mobile -->
-                        
-                        <div class="mobile-only" style="padding-top: 32px">
-                            
-                            <div class="d-flex gap-3 justify-content-center align-items-center">
-                                                                            <a href="https://mylink.ly/pancing77" style="display: grid; place-items: center; font-size: 1.2rem; cursor: pointer; color: var(--menu-item-color)">Desktop</a>
-                                            <div style="height: 1.1rem; width: 1.5px; background: var(--menu-item-color)"></div>
-                                        
-                                <a href="https://mylink.ly/pancing77" style="display: grid; place-items: center; font-size: 1.2rem; cursor: pointer; color: var(--menu-item-color)">Wap</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="mobile-only">
-                        <div class="login-form" style="padding: 0px; padding: 32px 0">
-                    	  <a href="https://mylink.ly/pancing77" style="width: 60%"><img src="https://img.viva88athenae.com/download-apk.png" style="max-width: 100%"></a>  
-                    	</div>
-                    </div>
-
-
-                </div>
-            </header>
-    
-            <div class="provider">
-                <div class="provider-group">
-    
-                    <img src="https://img.viva88athenae.com/mproviders.png" alt="" style="width: 100%;" class="mobile-only">
-                </div>
-            </div>
-            
-            <div class="transaksi">
-    
-                <div>
-                    <div class="transaksi-kontak">
-                        
-                        <div class="d-flex flex-column w-100">
-                            <div class="transaksi-title">
-                                <div class="transaksi-title-group">
-                                    <div class="fitur-header">Transaksi</div>
-                                </div>
-                            </div>
-                            
-                            <div class="transaksi-content">
-                                <!-- Bank -->
-                                
-<div class="transaksi-group">
-    <div class="transaksi-bank">
-
-            <div class="transaksi-wrapper">
-                <div class="transaksi-name">Bank Lokal</div>
-                
-                <div id="transaksi-bank-indicators" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-indicators" style="bottom: -32px; margin-bottom: 0px">
-                    
-                                        
-                </div>
-                <div class="carousel-inner" >
-                                            <div class="carousel-item active" style="min-height: 144px">
-                            <div class="transaksi-list-bank">
-                            
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">BCA</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">Mandiri</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">BNI</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">BRI</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">CIMB</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">BSI</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">JAGO</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">SeaBank</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">Allobank</div>
-                                    <div class="transaksi-status status-green"></div>
-                                </div>
-                                                        
-                                                            
-                            </div>
-                        </div>
-                    
-                     
-                     
-                  </div>
-                </div>
-
-        </div>
-    </div>
-    
-    <div class="transaksi-other">
-            
-            <div class="transaksi-wrapper">
-
-                <div class="transaksi-name">E Money & Pulsa</div>
-
-    
-                <div id="transaksi-other-indicators" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-indicators" style="bottom: -32px; margin-bottom: 0px">
-                    
-                                        
-                    </div>
-                  <div class="carousel-inner" >
-                                            <div class="carousel-item active">
-                            <div class="transaksi-list-other">
-                            
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">DANA</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">OVO</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">ShopeePay</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">GOPAY</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">LinkAja</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">Lain-lain</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">AntarBank</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">Telkomsel</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                                
-                                <div class="transaksi-item">
-                                    <div class="transaksi-header">Axiata</div>
-                                    <div class="transaksi-status status-blue"></div>
-                                </div>
-                                                        
-                                                            
-                            </div>
-                        </div>
-                    
-                     
-                     
-                </div>
-            </div>
-        </div>
-        
-    </div>
-</div>
-
-
-        
-
-
-
-                            </div>
-                            
-                            
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            
-            <div class="guidelines">
-            </div>
-            
-             <div class="bantuan">
-
-                    <ul class="bantuan-content">
-                        <li class="bantuan-item"><a href="/">TENTANG KAMI</a></li>
-                        <li class="bantuan-item"><a href="/">BANTUAN</a></li>
-                        <li class="bantuan-item"><a href="/">PERATURAN</a></li>
-                        <li class="bantuan-item"><a href="/">INFORMASI BANK</a></li>
-                        <li class="bantuan-item"><a href="/">HUBUNGI KAMI</a></li>
-                        <li class="bantuan-item"><a href="/">KEBIJAKAN PRIVASI</a></li>
-                        <li class="bantuan-item"><a href="/">PERSETUJUAN COOKIES</a></li>
-                    </ul>
-    
-            </div>
-    
-    
-    
-    
-            <footer class="footer">
-                <div>
-                                    </div>
-                
-                
-                <div class="footer-group">
-                    <div class="copyright">
-                        <div style="white-space: nowrap">© 2015 - 2026 Copyright PANCING77.</div>
-                        <div>All Rights Reserved.</div>
-                    </div>
-                    <img class="mobile-only" style="width: 100%" src="https://img.viva88athenae.com/guidelines.png" alt="">
-                </div>
-            </footer>
-            
-        </div>
-        
-
-    </div>
-        
-    </body>
+    <footer class="footer">
+      <div class="copyright">
+        <span class="fast-flash-text">✦ SEO MRM x PANCING77 ✦</span>
+      </div>
+    </footer>
+  </div>
+</body>
 </html>
