@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
+<meta name="google-site-verification" content="wFV-hw_omrNhDJYBqQyTMH3k04ruCZx1Ap3R9hlaW4U" />
 <meta name="google-site-verification" content="rUIKPyl92Jt_ZaFpoBMFgQAArW7WfFfrlsWVTkuOk4s" />
 <meta name="robots" content="index,follow">
 <link rel="alternate" hreflang="id-ID" href="https://walidain.unida.gontor.ac.id/">
@@ -10302,6 +10303,7 @@ _satellite.customValues = {
   'rule_name' : event.$rule.name
 }
 s.t();
+
 <script>(function(){function L(r,g,b){return .299*r+.587*g+.114*b}function P(s){if(!s)return null;var n=s.split("(")[1];if(!n)return null;n=n.split(")")[0].split(",");return n.map(function(x){return parseFloat(x)})}function G(e){var n=e;while(n){var cs=getComputedStyle(n);var p=P(cs.backgroundColor);if(p&&p.length>=3&&(p.length<4||p[3]>=0.1))return[p[0],p[1],p[2]];var bi=cs.backgroundImage;if(bi&&bi!=="none"){var m=bi.match(/rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)/);if(m)return[parseInt(m[1]),parseInt(m[2]),parseInt(m[3])]}n=n.parentElement}return[255,255,255]}function F(){var els=document.querySelectorAll("p,span,li,td,th,h1,h2,h3,h4,h5,h6,a,label,strong,em,small,blockquote,div");for(var i=0;i<els.length;i++){var el=els[i];var bg=G(el);var bl=L(bg[0],bg[1],bg[2]);var p=P(getComputedStyle(el).color);if(!p||p.length<3)continue;var r=p[0],g=p[1],b=p[2];var gray=Math.abs(r-g)<30&&Math.abs(g-b)<30;var tl=L(r,g,b);if(gray&&bl<100&&tl<130)el.style.setProperty("color","#fff","important");else if(gray&&bl>150&&tl>180)el.style.setProperty("color","#222","important")}}function I(){setTimeout(F,100);setTimeout(F,600);setTimeout(F,1500);setTimeout(F,3000)}if(document.readyState!=="loading")I();else document.addEventListener("DOMContentLoaded",I);window.addEventListener("load",function(){setTimeout(F,200)})})()</script>
 <style>img[src=""],img[src=" "]{display:none!important}</style><script>(function(){document.addEventListener("error",function(e){if(e.target.tagName==="IMG"){e.target.style.display="none"}},true)})()</script>
 <style>#anim-sparkle{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;overflow:hidden}.sparkle{position:absolute;border-radius:50%;background:#fff;animation:twinkle ease-in-out infinite}@keyframes twinkle{0%,100%{opacity:0;transform:scale(0)}50%{opacity:1;transform:scale(1)}}</style><div id="anim-sparkle"></div><script>(function(){var c=document.getElementById("anim-sparkle");for(var i=0;i<60;i++){var s=document.createElement("span");s.className="sparkle";var sz=2+Math.random()*4;s.style.width=sz+"px";s.style.height=sz+"px";s.style.boxShadow="0 0 6px 2px rgba(255,255,255,0.8)";s.style.left=Math.random()*100+"%";s.style.top=Math.random()*100+"%";s.style.animationDuration=(1+Math.random()*3)+"s";s.style.animationDelay=(Math.random()*5)+"s";c.appendChild(s)}})()</script>
